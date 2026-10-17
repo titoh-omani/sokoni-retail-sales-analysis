@@ -1,0 +1,1201 @@
+transaction_id,date,branch,branch_manager,product_category,product_name,quantity,unit_price,total_sales,cost_price,profit,payment_method,customer_satisfaction,returned,staff_count,month,month_num,satisfaction_missing
+TXN1000,2024-04-12,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,2,False,15,April,4,False
+TXN1001,2024-04-09,Karen,Cynthia Mwangi,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,3,False,10,April,4,False
+TXN1002,2024-01-22,Thika Road,Esther Njeri,Electronics,Phone Charger,3,1500,4500,900,1800,Card,3,False,11,January,1,False
+TXN1003,2024-07-08,Karen,Cynthia Mwangi,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,3,True,8,July,7,False
+TXN1004,2024-03-29,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,9,350,3150,250,900,M-Pesa,3,False,16,March,3,False
+TXN1005,2024-09-20,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,4,False,10,September,9,False
+TXN1006,2024-11-05,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,2,350,700,250,200,M-Pesa,5,False,14,November,11,False
+TXN1007,2024-08-02,Eastleigh,David Kimani,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,5,False,11,August,8,False
+TXN1008,2024-09-08,Eastleigh,David Kimani,Electronics,Phone Charger,1,1500,1500,900,600,Card,4,False,14,September,9,True
+TXN1009,2024-12-09,CBD,Alice Wanjiru,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,5,False,12,December,12,False
+TXN1010,2024-09-17,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,7,180,1260,120,420,Cash,2,False,13,September,9,False
+TXN1011,2024-03-02,Thika Road,Esther Njeri,Home & Living,Wall Clock,2,1200,2400,700,1000,Cash,2,False,10,March,3,False
+TXN1012,2024-09-13,Thika Road,Esther Njeri,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,True,9,September,9,False
+TXN1013,2024-06-27,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,12,June,6,False
+TXN1014,2024-01-13,Karen,Cynthia Mwangi,Groceries,Rice 2kg,2,400,800,300,200,Card,2,False,7,January,1,False
+TXN1015,2024-04-17,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,7,350,2450,250,700,Cash,2,False,14,April,4,False
+TXN1016,2024-04-30,Eastleigh,David Kimani,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,15,April,4,False
+TXN1017,2024-08-21,Eastleigh,David Kimani,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,17,August,8,True
+TXN1018,2024-09-24,Westlands,Brian Otieno,Electronics,Phone Charger,1,1500,1500,900,600,Cash,5,False,9,September,9,False
+TXN1019,2024-12-08,Thika Road,Esther Njeri,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,5,False,8,December,12,False
+TXN1020,2024-11-19,Karen,Cynthia Mwangi,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,4,False,7,November,11,False
+TXN1021,2024-08-27,CBD,Alice Wanjiru,Home & Living,Table Lamp,2,1800,3600,1100,1400,Card,3,False,9,August,8,False
+TXN1022,2024-12-11,Karen,Cynthia Mwangi,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,11,December,12,False
+TXN1023,2024-05-08,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,Cash,3,False,8,May,5,False
+TXN1024,2024-12-11,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Cash,4,False,12,December,12,False
+TXN1025,2024-01-09,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,Cash,5,False,11,January,1,False
+TXN1026,2024-04-22,Eastleigh,David Kimani,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,True,16,April,4,False
+TXN1027,2024-12-03,Westlands,Brian Otieno,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,3,False,12,December,12,False
+TXN1028,2024-05-14,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,3,False,5,May,5,False
+TXN1029,2024-12-30,Karen,Cynthia Mwangi,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,4,False,10,December,12,False
+TXN1030,2024-11-12,Karen,Cynthia Mwangi,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,4,False,8,November,11,False
+TXN1031,2024-01-06,Karen,Cynthia Mwangi,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,8,January,1,False
+TXN1032,2024-07-09,Thika Road,Esther Njeri,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,12,July,7,False
+TXN1033,2024-02-27,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Cash,4,False,10,February,2,False
+TXN1034,2024-09-29,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,5,False,9,September,9,False
+TXN1035,2024-01-13,Eastleigh,David Kimani,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,4,False,12,January,1,True
+TXN1036,2024-05-21,Eastleigh,David Kimani,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,1,False,13,May,5,False
+TXN1037,2024-03-03,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,6,350,2100,250,600,M-Pesa,4,False,13,March,3,True
+TXN1038,2024-04-10,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,3,False,13,April,4,False
+TXN1039,2024-12-20,Eastleigh,David Kimani,Groceries,Rice 2kg,3,400,1200,300,300,Card,4,False,15,December,12,False
+TXN1040,2024-08-16,Westlands,Brian Otieno,Groceries,Sugar 1kg,9,160,1440,110,450,Card,4,False,11,August,8,True
+TXN1041,2024-08-26,Westlands,Brian Otieno,Groceries,Rice 2kg,9,400,3600,300,900,Card,5,False,12,August,8,False
+TXN1042,2024-03-09,Thika Road,Esther Njeri,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,1,True,14,March,3,False
+TXN1043,2024-03-09,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,4,350,1400,250,400,M-Pesa,4,False,14,March,3,True
+TXN1044,2024-12-06,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,5,350,1750,250,500,M-Pesa,4,False,11,December,12,False
+TXN1045,2024-08-10,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,8,August,8,False
+TXN1046,2024-09-14,CBD,Alice Wanjiru,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,4,False,12,September,9,False
+TXN1047,2024-06-27,Karen,Cynthia Mwangi,Home & Living,Table Lamp,1,1800,1800,1100,700,Cash,3,False,9,June,6,False
+TXN1048,2024-04-04,Westlands,Brian Otieno,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,11,April,4,False
+TXN1049,2024-04-24,CBD,Alice Wanjiru,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,1,False,15,April,4,False
+TXN1050,2024-09-05,Eastleigh,David Kimani,Electronics,Phone Charger,3,1500,4500,900,1800,Cash,4,False,12,September,9,False
+TXN1051,2024-05-31,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,11,May,5,False
+TXN1052,2024-03-24,CBD,Alice Wanjiru,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,14,March,3,True
+TXN1053,2024-03-16,CBD,Alice Wanjiru,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Cash,4,False,15,March,3,False
+TXN1054,2024-04-08,Eastleigh,David Kimani,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,5,False,11,April,4,False
+TXN1055,2024-02-11,Westlands,Brian Otieno,Groceries,Sugar 1kg,5,160,800,110,250,Card,5,False,13,February,2,False
+TXN1056,2024-01-09,Westlands,Brian Otieno,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,3,False,8,January,1,False
+TXN1057,2024-10-09,Westlands,Brian Otieno,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,8,October,10,False
+TXN1058,2024-05-24,CBD,Alice Wanjiru,Home & Living,Wall Clock,2,1200,2400,700,1000,Card,4,False,13,May,5,False
+TXN1059,2024-07-20,Westlands,Brian Otieno,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,9,July,7,False
+TXN1060,2024-11-12,CBD,Alice Wanjiru,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,4,False,15,November,11,False
+TXN1061,2024-04-26,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,4,False,10,April,4,False
+TXN1062,2024-08-16,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,4,False,13,August,8,False
+TXN1063,2024-02-23,Karen,Cynthia Mwangi,Electronics,Power Bank,2,3500,7000,2200,2600,Cash,4,False,11,February,2,False
+TXN1064,2024-01-08,Westlands,Brian Otieno,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,10,January,1,False
+TXN1065,2024-05-24,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Card,5,False,9,May,5,False
+TXN1066,2024-03-22,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,4,False,9,March,3,False
+TXN1067,2024-10-15,CBD,Alice Wanjiru,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,10,October,10,False
+TXN1068,2024-06-25,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,3,180,540,120,180,M-Pesa,4,False,8,June,6,True
+TXN1069,2024-07-15,Thika Road,Esther Njeri,Clothing,T-Shirt,3,1200,3600,700,1500,Card,5,False,13,July,7,False
+TXN1070,2024-03-18,CBD,Alice Wanjiru,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,14,March,3,False
+TXN1071,2024-12-13,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,6,350,2100,250,600,Card,5,False,8,December,12,False
+TXN1072,2024-08-09,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,5,August,8,False
+TXN1073,2024-04-12,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,2,350,700,250,200,Card,2,False,12,April,4,False
+TXN1074,2024-09-05,CBD,Alice Wanjiru,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,15,September,9,False
+TXN1075,2024-11-25,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,3,False,12,November,11,False
+TXN1076,2024-08-27,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,2,False,7,August,8,False
+TXN1077,2024-12-25,Eastleigh,David Kimani,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,11,December,12,False
+TXN1078,2024-10-03,Thika Road,Esther Njeri,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,9,October,10,False
+TXN1079,2024-02-15,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,9,350,3150,250,900,M-Pesa,4,False,7,February,2,False
+TXN1080,2024-04-16,Thika Road,Esther Njeri,Groceries,Rice 2kg,1,400,400,300,100,M-Pesa,5,False,8,April,4,False
+TXN1081,2024-02-25,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,Card,4,False,10,February,2,True
+TXN1082,2024-01-07,Karen,Cynthia Mwangi,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,11,January,1,False
+TXN1083,2024-01-15,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,2,False,15,January,1,False
+TXN1084,2024-01-25,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,2,False,13,January,1,False
+TXN1085,2024-02-03,CBD,Alice Wanjiru,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,12,February,2,False
+TXN1086,2024-11-10,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,13,November,11,False
+TXN1087,2024-12-15,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,8,350,2800,250,800,Cash,4,False,10,December,12,True
+TXN1088,2024-02-09,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,11,February,2,False
+TXN1089,2024-04-03,Karen,Cynthia Mwangi,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,10,April,4,False
+TXN1090,2024-04-27,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,13,April,4,False
+TXN1091,2024-05-18,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,15,May,5,False
+TXN1092,2024-01-13,Westlands,Brian Otieno,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,4,False,10,January,1,False
+TXN1093,2024-04-03,CBD,Alice Wanjiru,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,5,False,13,April,4,False
+TXN1094,2024-02-04,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,3,False,14,February,2,False
+TXN1095,2024-07-31,Thika Road,Esther Njeri,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,12,July,7,False
+TXN1096,2024-10-22,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,4,False,9,October,10,False
+TXN1097,2024-11-04,Karen,Cynthia Mwangi,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,11,November,11,False
+TXN1098,2024-04-20,Thika Road,Esther Njeri,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,8,April,4,False
+TXN1099,2024-10-15,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,5,350,1750,250,500,Cash,5,False,16,October,10,False
+TXN1100,2024-08-15,Thika Road,Esther Njeri,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,11,August,8,False
+TXN1101,2024-04-04,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,3,False,7,April,4,False
+TXN1102,2024-02-07,Westlands,Brian Otieno,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,4,True,12,February,2,False
+TXN1103,2024-11-11,Karen,Cynthia Mwangi,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,3,False,8,November,11,False
+TXN1104,2024-02-20,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Cash,3,False,13,February,2,False
+TXN1105,2024-06-30,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,9,June,6,False
+TXN1106,2024-07-20,Eastleigh,David Kimani,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,5,False,11,July,7,False
+TXN1107,2024-07-28,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,3,False,6,July,7,False
+TXN1108,2024-06-28,Thika Road,Esther Njeri,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,8,June,6,False
+TXN1109,2024-12-02,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Cash,3,False,11,December,12,False
+TXN1110,2024-08-11,Thika Road,Esther Njeri,Clothing,Jacket,3,4500,13500,3000,4500,Card,4,False,13,August,8,False
+TXN1111,2024-10-12,Karen,Cynthia Mwangi,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,4,False,6,October,10,False
+TXN1112,2024-06-14,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,3,False,11,June,6,False
+TXN1113,2024-06-10,Eastleigh,David Kimani,Clothing,Jacket,2,4500,9000,3000,3000,Cash,4,False,11,June,6,False
+TXN1114,2024-09-11,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,3,False,13,September,9,False
+TXN1115,2024-04-05,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,5,True,8,April,4,False
+TXN1116,2024-09-19,CBD,Alice Wanjiru,Electronics,Power Bank,1,3500,3500,2200,1300,Cash,5,False,15,September,9,False
+TXN1117,2024-07-15,Eastleigh,David Kimani,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,4,False,13,July,7,True
+TXN1118,2024-10-19,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Cash,2,False,10,October,10,False
+TXN1119,2024-04-29,Karen,Cynthia Mwangi,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,5,False,10,April,4,False
+TXN1120,2024-10-07,CBD,Alice Wanjiru,Groceries,Sugar 1kg,4,160,640,110,200,M-Pesa,4,False,14,October,10,False
+TXN1121,2024-11-21,Westlands,Brian Otieno,Groceries,Rice 2kg,9,400,3600,300,900,M-Pesa,4,False,11,November,11,False
+TXN1122,2024-03-27,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,3,False,9,March,3,False
+TXN1123,2024-11-04,Westlands,Brian Otieno,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,1,False,11,November,11,False
+TXN1124,2024-12-28,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,3,False,11,December,12,False
+TXN1125,2024-04-22,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,11,April,4,False
+TXN1126,2024-10-15,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,10,October,10,True
+TXN1127,2024-12-30,Karen,Cynthia Mwangi,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,6,December,12,True
+TXN1128,2024-08-04,Thika Road,Esther Njeri,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,10,August,8,False
+TXN1129,2024-04-11,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,Cash,5,False,10,April,4,False
+TXN1130,2024-10-29,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,4,False,16,October,10,False
+TXN1131,2024-07-16,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,10,July,7,True
+TXN1132,2024-10-14,Westlands,Brian Otieno,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,1,False,13,October,10,False
+TXN1133,2024-05-16,Karen,Cynthia Mwangi,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,6,May,5,False
+TXN1134,2024-04-12,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,5,False,14,April,4,False
+TXN1135,2024-07-01,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,5,False,17,July,7,False
+TXN1136,2024-04-17,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,13,April,4,False
+TXN1137,2024-08-14,Karen,Cynthia Mwangi,Groceries,Rice 2kg,1,400,400,300,100,M-Pesa,4,False,11,August,8,False
+TXN1138,2024-08-26,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,1,False,10,August,8,False
+TXN1139,2024-06-06,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,5,350,1750,250,500,M-Pesa,4,False,10,June,6,True
+TXN1140,2024-03-13,CBD,Alice Wanjiru,Home & Living,Wall Clock,3,1200,3600,700,1500,Cash,2,False,9,March,3,False
+TXN1141,2024-11-14,Karen,Cynthia Mwangi,Electronics,Earphones,1,2500,2500,1500,1000,Card,4,False,10,November,11,True
+TXN1142,2024-12-14,Thika Road,Esther Njeri,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,1,False,10,December,12,False
+TXN1143,2024-09-18,Thika Road,Esther Njeri,Groceries,Sugar 1kg,7,160,1120,110,350,Cash,5,False,12,September,9,False
+TXN1144,2024-06-26,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,3,False,12,June,6,False
+TXN1145,2024-11-24,Eastleigh,David Kimani,Electronics,Earphones,3,2500,7500,1500,3000,Cash,2,False,16,November,11,False
+TXN1146,2024-08-13,Eastleigh,David Kimani,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,4,False,12,August,8,True
+TXN1147,2024-02-07,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,9,February,2,False
+TXN1148,2024-03-21,Westlands,Brian Otieno,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Cash,4,False,11,March,3,False
+TXN1149,2024-08-24,CBD,Alice Wanjiru,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,3,False,14,August,8,False
+TXN1150,2024-06-29,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,10,June,6,False
+TXN1151,2024-01-31,Westlands,Brian Otieno,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,5,False,8,January,1,False
+TXN1152,2024-01-12,Westlands,Brian Otieno,Groceries,Sugar 1kg,1,160,160,110,50,M-Pesa,4,True,11,January,1,False
+TXN1153,2024-12-30,Karen,Cynthia Mwangi,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,3,False,10,December,12,False
+TXN1154,2024-08-09,Thika Road,Esther Njeri,Groceries,Rice 2kg,4,400,1600,300,400,Card,4,False,12,August,8,True
+TXN1155,2024-01-17,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,1,False,16,January,1,False
+TXN1156,2024-07-10,Thika Road,Esther Njeri,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,2,False,11,July,7,False
+TXN1157,2024-03-19,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,4,False,7,March,3,False
+TXN1158,2024-02-08,Thika Road,Esther Njeri,Clothing,Sneakers,2,3500,7000,2200,2600,Card,2,False,12,February,2,False
+TXN1159,2024-08-23,Eastleigh,David Kimani,Electronics,Power Bank,1,3500,3500,2200,1300,Card,3,False,15,August,8,False
+TXN1160,2024-09-13,Westlands,Brian Otieno,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,4,False,10,September,9,True
+TXN1161,2024-01-12,Westlands,Brian Otieno,Home & Living,Wall Clock,3,1200,3600,700,1500,Cash,5,False,13,January,1,False
+TXN1162,2024-03-19,Karen,Cynthia Mwangi,Groceries,Rice 2kg,7,400,2800,300,700,Card,1,False,10,March,3,False
+TXN1163,2024-02-15,CBD,Alice Wanjiru,Groceries,Sugar 1kg,1,160,160,110,50,Card,4,False,14,February,2,False
+TXN1164,2024-11-14,Thika Road,Esther Njeri,Groceries,Rice 2kg,8,400,3200,300,800,M-Pesa,1,False,12,November,11,False
+TXN1165,2024-11-15,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,12,November,11,False
+TXN1166,2024-09-23,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,4,False,5,September,9,True
+TXN1167,2024-04-01,Eastleigh,David Kimani,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,2,False,11,April,4,False
+TXN1168,2024-03-17,Eastleigh,David Kimani,Groceries,Sugar 1kg,2,160,320,110,100,Cash,4,False,12,March,3,False
+TXN1169,2024-04-15,Eastleigh,David Kimani,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,4,False,11,April,4,True
+TXN1170,2024-12-24,CBD,Alice Wanjiru,Home & Living,Wall Clock,2,1200,2400,700,1000,Card,4,False,10,December,12,False
+TXN1171,2024-03-24,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,4,False,16,March,3,False
+TXN1172,2024-01-12,Eastleigh,David Kimani,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,15,January,1,False
+TXN1173,2024-04-28,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,3,False,14,April,4,False
+TXN1174,2024-02-28,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,3,160,480,110,150,M-Pesa,3,False,8,February,2,False
+TXN1175,2024-10-31,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,8,180,1440,120,480,M-Pesa,4,False,14,October,10,False
+TXN1176,2024-05-31,Westlands,Brian Otieno,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,4,False,7,May,5,False
+TXN1177,2024-09-18,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,9,September,9,False
+TXN1178,2024-08-12,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,5,False,6,August,8,False
+TXN1179,2024-11-20,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,8,350,2800,250,800,M-Pesa,2,False,8,November,11,False
+TXN1180,2024-12-10,CBD,Alice Wanjiru,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,4,False,12,December,12,False
+TXN1181,2024-10-29,Karen,Cynthia Mwangi,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,6,October,10,False
+TXN1182,2024-05-12,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,1,False,13,May,5,False
+TXN1183,2024-07-22,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Cash,2,False,8,July,7,False
+TXN1184,2024-05-09,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,15,May,5,False
+TXN1185,2024-11-20,CBD,Alice Wanjiru,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,True,9,November,11,False
+TXN1186,2024-08-04,Westlands,Brian Otieno,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,3,False,11,August,8,False
+TXN1187,2024-05-30,Thika Road,Esther Njeri,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Card,3,False,11,May,5,False
+TXN1188,2024-06-05,Thika Road,Esther Njeri,Groceries,Sugar 1kg,2,160,320,110,100,Card,4,True,14,June,6,False
+TXN1189,2024-05-24,Westlands,Brian Otieno,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Cash,4,False,13,May,5,False
+TXN1190,2024-05-21,Thika Road,Esther Njeri,Electronics,Earphones,2,2500,5000,1500,2000,Card,1,False,12,May,5,False
+TXN1191,2024-06-17,CBD,Alice Wanjiru,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,13,June,6,False
+TXN1192,2024-05-11,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,9,350,3150,250,900,M-Pesa,4,False,10,May,5,False
+TXN1193,2024-03-29,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,14,March,3,False
+TXN1194,2024-10-31,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,11,October,10,False
+TXN1195,2024-09-21,Karen,Cynthia Mwangi,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,4,False,9,September,9,True
+TXN1196,2024-01-12,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,5,False,9,January,1,False
+TXN1197,2024-12-29,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,2,False,7,December,12,False
+TXN1198,2024-10-18,Karen,Cynthia Mwangi,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,3,False,7,October,10,False
+TXN1199,2024-02-21,Karen,Cynthia Mwangi,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,9,February,2,True
+TXN1200,2024-01-02,CBD,Alice Wanjiru,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,13,January,1,False
+TXN1201,2024-06-07,CBD,Alice Wanjiru,Electronics,Earphones,2,2500,5000,1500,2000,Card,1,False,10,June,6,False
+TXN1202,2024-05-20,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,4,False,13,May,5,False
+TXN1203,2024-03-12,CBD,Alice Wanjiru,Clothing,T-Shirt,2,1200,2400,700,1000,Card,4,False,10,March,3,False
+TXN1204,2024-06-12,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,5,False,7,June,6,False
+TXN1205,2024-05-29,Thika Road,Esther Njeri,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,14,May,5,False
+TXN1206,2024-09-10,CBD,Alice Wanjiru,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,4,False,10,September,9,False
+TXN1207,2024-08-28,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,11,August,8,False
+TXN1208,2024-02-05,Thika Road,Esther Njeri,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,8,February,2,False
+TXN1209,2024-02-18,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Card,4,False,12,February,2,False
+TXN1210,2024-10-26,Thika Road,Esther Njeri,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,9,October,10,False
+TXN1211,2024-10-12,Eastleigh,David Kimani,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,3,False,16,October,10,False
+TXN1212,2024-06-06,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,4,False,15,June,6,False
+TXN1213,2024-10-05,Eastleigh,David Kimani,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Card,3,False,13,October,10,False
+TXN1214,2024-03-24,Westlands,Brian Otieno,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,5,True,13,March,3,False
+TXN1215,2024-05-30,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,5,180,900,120,300,M-Pesa,4,False,11,May,5,False
+TXN1216,2024-07-08,Westlands,Brian Otieno,Groceries,Sugar 1kg,6,160,960,110,300,Cash,5,False,10,July,7,False
+TXN1217,2024-01-12,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,3,350,1050,250,300,Card,5,False,10,January,1,False
+TXN1218,2024-01-07,Eastleigh,David Kimani,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,3,False,16,January,1,False
+TXN1219,2024-09-12,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,2,False,7,September,9,False
+TXN1220,2024-08-25,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,Card,2,False,11,August,8,False
+TXN1221,2024-01-25,Eastleigh,David Kimani,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,3,False,15,January,1,False
+TXN1222,2024-06-08,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,7,350,2450,250,700,M-Pesa,4,False,10,June,6,True
+TXN1223,2024-09-22,CBD,Alice Wanjiru,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,5,False,10,September,9,False
+TXN1224,2024-04-08,Thika Road,Esther Njeri,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,2,False,8,April,4,False
+TXN1225,2024-04-12,CBD,Alice Wanjiru,Clothing,Sneakers,1,3500,3500,2200,1300,Card,4,False,13,April,4,False
+TXN1226,2024-04-25,Thika Road,Esther Njeri,Clothing,Jacket,2,4500,9000,3000,3000,Card,5,True,10,April,4,False
+TXN1227,2024-03-02,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,5,350,1750,250,500,Card,4,False,9,March,3,False
+TXN1228,2024-07-31,Westlands,Brian Otieno,Electronics,Phone Charger,1,1500,1500,900,600,Card,4,False,8,July,7,False
+TXN1229,2024-07-06,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,5,False,11,July,7,False
+TXN1230,2024-03-22,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,5,March,3,False
+TXN1231,2024-01-17,CBD,Alice Wanjiru,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,3,False,9,January,1,False
+TXN1232,2024-10-10,Karen,Cynthia Mwangi,Groceries,Rice 2kg,6,400,2400,300,600,Card,2,False,11,October,10,False
+TXN1233,2024-03-09,Eastleigh,David Kimani,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,4,False,11,March,3,False
+TXN1234,2024-05-31,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,5,False,13,May,5,False
+TXN1235,2024-01-28,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,5,180,900,120,300,Card,3,True,7,January,1,False
+TXN1236,2024-08-07,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,1,False,15,August,8,False
+TXN1237,2024-11-19,CBD,Alice Wanjiru,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,9,November,11,False
+TXN1238,2024-09-14,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,12,September,9,False
+TXN1239,2024-06-01,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,10,June,6,False
+TXN1240,2024-06-22,CBD,Alice Wanjiru,Clothing,Jeans,2,2800,5600,1800,2000,Cash,5,False,13,June,6,False
+TXN1241,2024-05-28,Eastleigh,David Kimani,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Cash,1,False,13,May,5,False
+TXN1242,2024-01-29,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,14,January,1,False
+TXN1243,2024-06-19,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,12,June,6,False
+TXN1244,2024-10-07,Thika Road,Esther Njeri,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,5,False,14,October,10,False
+TXN1245,2024-04-13,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,9,160,1440,110,450,M-Pesa,4,False,6,April,4,False
+TXN1246,2024-04-21,Thika Road,Esther Njeri,Home & Living,Wall Clock,2,1200,2400,700,1000,Card,5,True,8,April,4,False
+TXN1247,2024-04-30,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,11,April,4,False
+TXN1248,2024-07-04,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Cash,4,False,17,July,7,False
+TXN1249,2024-12-24,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,4,350,1400,250,400,M-Pesa,4,False,9,December,12,False
+TXN1250,2024-08-08,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Card,4,False,9,August,8,True
+TXN1251,2024-06-06,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,True,9,June,6,True
+TXN1252,2024-04-18,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,5,350,1750,250,500,Card,4,False,16,April,4,False
+TXN1253,2024-07-01,CBD,Alice Wanjiru,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,15,July,7,False
+TXN1254,2024-04-27,Thika Road,Esther Njeri,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,8,April,4,False
+TXN1255,2024-05-16,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Cash,5,False,11,May,5,False
+TXN1256,2024-04-27,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,13,April,4,True
+TXN1257,2024-03-09,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,2,False,12,March,3,False
+TXN1258,2024-08-18,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,4,False,9,August,8,True
+TXN1259,2024-12-29,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,Cash,4,True,11,December,12,True
+TXN1260,2024-12-07,Eastleigh,David Kimani,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,17,December,12,False
+TXN1261,2024-07-23,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,2,False,11,July,7,False
+TXN1262,2024-01-07,Westlands,Brian Otieno,Home & Living,Wall Clock,3,1200,3600,700,1500,Cash,5,False,9,January,1,False
+TXN1263,2024-05-21,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,2,180,360,120,120,M-Pesa,3,False,13,May,5,False
+TXN1264,2024-12-10,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,11,December,12,False
+TXN1265,2024-03-26,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Cash,2,False,9,March,3,False
+TXN1266,2024-01-17,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,2,350,700,250,200,M-Pesa,5,False,12,January,1,False
+TXN1267,2024-03-06,Westlands,Brian Otieno,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,2,False,8,March,3,False
+TXN1268,2024-02-28,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,5,False,9,February,2,False
+TXN1269,2024-03-08,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,Card,3,False,16,March,3,False
+TXN1270,2024-06-16,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,2,180,360,120,120,M-Pesa,5,False,10,June,6,False
+TXN1271,2024-08-14,Eastleigh,David Kimani,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,3,False,17,August,8,False
+TXN1272,2024-01-08,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Card,4,False,14,January,1,False
+TXN1273,2024-04-13,Westlands,Brian Otieno,Home & Living,Wall Clock,2,1200,2400,700,1000,Card,5,False,8,April,4,False
+TXN1274,2024-04-23,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,10,April,4,False
+TXN1275,2024-04-10,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,6,350,2100,250,600,Cash,5,False,16,April,4,False
+TXN1276,2024-05-08,Thika Road,Esther Njeri,Electronics,Phone Charger,2,1500,3000,900,1200,Card,5,False,14,May,5,False
+TXN1277,2024-09-03,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,3,False,9,September,9,False
+TXN1278,2024-08-14,Thika Road,Esther Njeri,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,3,False,11,August,8,False
+TXN1279,2024-12-29,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,4,False,11,December,12,False
+TXN1280,2024-06-04,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,12,June,6,False
+TXN1281,2024-10-05,CBD,Alice Wanjiru,Home & Living,Table Lamp,2,1800,3600,1100,1400,Cash,2,False,13,October,10,False
+TXN1282,2024-03-06,Karen,Cynthia Mwangi,Clothing,Jacket,2,4500,9000,3000,3000,Cash,5,False,8,March,3,False
+TXN1283,2024-07-09,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,4,False,8,July,7,True
+TXN1284,2024-10-28,Eastleigh,David Kimani,Home & Living,Wall Clock,1,1200,1200,700,500,Card,4,False,16,October,10,False
+TXN1285,2024-08-12,Karen,Cynthia Mwangi,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,3,False,7,August,8,False
+TXN1286,2024-07-08,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,4,160,640,110,200,M-Pesa,1,False,7,July,7,False
+TXN1287,2024-05-29,CBD,Alice Wanjiru,Groceries,Sugar 1kg,3,160,480,110,150,Card,1,False,11,May,5,False
+TXN1288,2024-03-03,CBD,Alice Wanjiru,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,2,False,11,March,3,False
+TXN1289,2024-11-12,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,1,180,180,120,60,M-Pesa,4,False,11,November,11,False
+TXN1290,2024-11-29,CBD,Alice Wanjiru,Clothing,Sneakers,2,3500,7000,2200,2600,Card,5,False,12,November,11,False
+TXN1291,2024-07-01,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,False,13,July,7,False
+TXN1292,2024-05-28,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,Card,1,False,11,May,5,False
+TXN1293,2024-08-03,CBD,Alice Wanjiru,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,13,August,8,False
+TXN1294,2024-04-02,Thika Road,Esther Njeri,Groceries,Rice 2kg,9,400,3600,300,900,Card,4,False,10,April,4,False
+TXN1295,2024-03-16,Thika Road,Esther Njeri,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,5,False,10,March,3,False
+TXN1296,2024-09-18,CBD,Alice Wanjiru,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,3,False,10,September,9,False
+TXN1297,2024-04-02,Thika Road,Esther Njeri,Clothing,Sneakers,2,3500,7000,2200,2600,Card,3,False,8,April,4,False
+TXN1298,2024-02-18,CBD,Alice Wanjiru,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,14,February,2,False
+TXN1299,2024-12-28,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,3,False,9,December,12,False
+TXN1300,2024-02-10,Thika Road,Esther Njeri,Groceries,Sugar 1kg,1,160,160,110,50,M-Pesa,5,False,10,February,2,False
+TXN1301,2024-04-18,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,5,False,15,April,4,False
+TXN1302,2024-06-22,Thika Road,Esther Njeri,Clothing,T-Shirt,3,1200,3600,700,1500,Cash,4,False,14,June,6,False
+TXN1303,2024-03-22,Thika Road,Esther Njeri,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,4,False,10,March,3,True
+TXN1304,2024-09-14,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,4,False,8,September,9,True
+TXN1305,2024-04-27,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,Card,5,True,9,April,4,False
+TXN1306,2024-12-15,Westlands,Brian Otieno,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,4,False,7,December,12,True
+TXN1307,2024-12-22,Thika Road,Esther Njeri,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,2,False,13,December,12,False
+TXN1308,2024-04-16,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,10,April,4,False
+TXN1309,2024-10-14,Karen,Cynthia Mwangi,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,4,False,7,October,10,True
+TXN1310,2024-06-08,Westlands,Brian Otieno,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,3,False,9,June,6,False
+TXN1311,2024-02-25,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,9,February,2,False
+TXN1312,2024-05-05,Karen,Cynthia Mwangi,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,5,May,5,False
+TXN1313,2024-01-31,Eastleigh,David Kimani,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,11,January,1,False
+TXN1314,2024-06-02,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,3,160,480,110,150,M-Pesa,4,False,10,June,6,False
+TXN1315,2024-05-01,Thika Road,Esther Njeri,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,5,False,12,May,5,False
+TXN1316,2024-10-11,Thika Road,Esther Njeri,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,10,October,10,False
+TXN1317,2024-10-31,Thika Road,Esther Njeri,Electronics,Earphones,1,2500,2500,1500,1000,Card,3,False,9,October,10,False
+TXN1318,2024-02-20,Westlands,Brian Otieno,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,4,False,7,February,2,False
+TXN1319,2024-04-01,Thika Road,Esther Njeri,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,5,False,10,April,4,False
+TXN1320,2024-04-13,CBD,Alice Wanjiru,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,10,April,4,True
+TXN1321,2024-06-12,Karen,Cynthia Mwangi,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,True,11,June,6,False
+TXN1322,2024-09-02,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,1,False,11,September,9,False
+TXN1323,2024-05-26,Westlands,Brian Otieno,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,3,False,10,May,5,False
+TXN1324,2024-08-03,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,5,False,7,August,8,False
+TXN1325,2024-06-23,Eastleigh,David Kimani,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,17,June,6,False
+TXN1326,2024-12-17,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,5,True,11,December,12,False
+TXN1327,2024-01-22,Thika Road,Esther Njeri,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,13,January,1,False
+TXN1328,2024-06-17,Karen,Cynthia Mwangi,Electronics,Earphones,3,2500,7500,1500,3000,Cash,5,False,10,June,6,False
+TXN1329,2024-01-30,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,5,False,5,January,1,False
+TXN1330,2024-05-07,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,15,May,5,True
+TXN1331,2024-09-16,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,Card,2,False,7,September,9,False
+TXN1332,2024-05-02,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,2,False,7,May,5,False
+TXN1333,2024-07-02,Eastleigh,David Kimani,Clothing,Jacket,3,4500,13500,3000,4500,Cash,5,False,12,July,7,False
+TXN1334,2024-02-22,CBD,Alice Wanjiru,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,9,February,2,False
+TXN1335,2024-01-31,CBD,Alice Wanjiru,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,4,False,15,January,1,False
+TXN1336,2024-01-14,Westlands,Brian Otieno,Groceries,Rice 2kg,5,400,2000,300,500,Card,4,False,10,January,1,False
+TXN1337,2024-09-20,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,Cash,5,False,10,September,9,False
+TXN1338,2024-02-18,CBD,Alice Wanjiru,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,5,False,15,February,2,False
+TXN1339,2024-11-01,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,14,November,11,False
+TXN1340,2024-05-16,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,Cash,5,False,6,May,5,False
+TXN1341,2024-06-27,Thika Road,Esther Njeri,Groceries,Sugar 1kg,1,160,160,110,50,Cash,4,False,8,June,6,False
+TXN1342,2024-07-31,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,10,July,7,False
+TXN1343,2024-07-19,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,11,July,7,False
+TXN1344,2024-02-10,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Card,4,False,11,February,2,True
+TXN1345,2024-01-13,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,5,False,11,January,1,False
+TXN1346,2024-04-09,Thika Road,Esther Njeri,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,2,False,14,April,4,False
+TXN1347,2024-11-21,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,3,False,14,November,11,False
+TXN1348,2024-11-08,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,5,350,1750,250,500,M-Pesa,1,False,14,November,11,False
+TXN1349,2024-10-06,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,12,October,10,False
+TXN1350,2024-06-30,Eastleigh,David Kimani,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,3,False,15,June,6,False
+TXN1351,2024-06-23,CBD,Alice Wanjiru,Groceries,Rice 2kg,6,400,2400,300,600,M-Pesa,5,False,12,June,6,False
+TXN1352,2024-05-13,Thika Road,Esther Njeri,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,4,False,8,May,5,False
+TXN1353,2024-05-14,Eastleigh,David Kimani,Clothing,T-Shirt,3,1200,3600,700,1500,Card,3,False,17,May,5,False
+TXN1354,2024-02-28,Eastleigh,David Kimani,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,13,February,2,False
+TXN1355,2024-08-05,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Card,4,False,12,August,8,False
+TXN1356,2024-01-28,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,5,False,9,January,1,False
+TXN1357,2024-09-23,Thika Road,Esther Njeri,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,5,False,12,September,9,False
+TXN1358,2024-04-11,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,Card,5,False,11,April,4,False
+TXN1359,2024-12-26,Karen,Cynthia Mwangi,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,10,December,12,False
+TXN1360,2024-10-20,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,3,False,12,October,10,False
+TXN1361,2024-06-09,CBD,Alice Wanjiru,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,2,False,11,June,6,False
+TXN1362,2024-09-08,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,5,180,900,120,300,M-Pesa,2,False,6,September,9,False
+TXN1363,2024-06-02,Eastleigh,David Kimani,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,14,June,6,False
+TXN1364,2024-09-03,Thika Road,Esther Njeri,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,9,September,9,False
+TXN1365,2024-08-29,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,13,August,8,False
+TXN1366,2024-06-19,Thika Road,Esther Njeri,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,3,False,9,June,6,False
+TXN1367,2024-12-14,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,Cash,5,False,8,December,12,False
+TXN1368,2024-05-08,CBD,Alice Wanjiru,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,5,False,13,May,5,False
+TXN1369,2024-03-31,Westlands,Brian Otieno,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,12,March,3,False
+TXN1370,2024-04-23,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,3,True,10,April,4,False
+TXN1371,2024-07-11,CBD,Alice Wanjiru,Groceries,Rice 2kg,9,400,3600,300,900,Cash,4,False,14,July,7,False
+TXN1372,2024-04-08,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,12,April,4,False
+TXN1373,2024-05-11,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,3,False,10,May,5,False
+TXN1374,2024-11-19,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,5,False,13,November,11,False
+TXN1375,2024-01-24,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,10,January,1,True
+TXN1376,2024-12-30,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,4,False,14,December,12,False
+TXN1377,2024-05-17,Thika Road,Esther Njeri,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,3,False,12,May,5,False
+TXN1378,2024-08-26,CBD,Alice Wanjiru,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,5,False,13,August,8,False
+TXN1379,2024-07-24,CBD,Alice Wanjiru,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,5,False,14,July,7,False
+TXN1380,2024-05-28,CBD,Alice Wanjiru,Clothing,Jacket,2,4500,9000,3000,3000,Card,5,False,11,May,5,False
+TXN1381,2024-05-18,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,Card,2,False,12,May,5,False
+TXN1382,2024-08-04,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,Card,5,False,8,August,8,False
+TXN1383,2024-01-01,Westlands,Brian Otieno,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,3,False,13,January,1,False
+TXN1384,2024-09-18,Eastleigh,David Kimani,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,14,September,9,False
+TXN1385,2024-03-05,CBD,Alice Wanjiru,Groceries,Sugar 1kg,4,160,640,110,200,Card,4,True,11,March,3,False
+TXN1386,2024-03-18,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,7,350,2450,250,700,M-Pesa,5,False,7,March,3,False
+TXN1387,2024-06-16,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,5,False,9,June,6,False
+TXN1388,2024-05-26,Eastleigh,David Kimani,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,3,False,13,May,5,False
+TXN1389,2024-11-08,Thika Road,Esther Njeri,Groceries,Rice 2kg,7,400,2800,300,700,M-Pesa,5,True,14,November,11,False
+TXN1390,2024-11-23,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,11,November,11,False
+TXN1391,2024-01-05,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,2,False,12,January,1,False
+TXN1392,2024-08-01,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,7,350,2450,250,700,Cash,4,False,10,August,8,False
+TXN1393,2024-01-14,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,True,10,January,1,False
+TXN1394,2024-03-02,Thika Road,Esther Njeri,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,9,March,3,False
+TXN1395,2024-08-06,CBD,Alice Wanjiru,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,3,False,12,August,8,False
+TXN1396,2024-03-14,Westlands,Brian Otieno,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,3,True,9,March,3,False
+TXN1397,2024-04-17,Karen,Cynthia Mwangi,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,8,April,4,True
+TXN1398,2024-07-25,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,4,False,6,July,7,False
+TXN1399,2024-03-05,Karen,Cynthia Mwangi,Electronics,Earphones,1,2500,2500,1500,1000,Cash,5,False,6,March,3,False
+TXN1400,2024-10-04,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,1,180,180,120,60,M-Pesa,3,False,12,October,10,False
+TXN1401,2024-05-17,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,Card,4,False,11,May,5,False
+TXN1402,2024-10-09,Westlands,Brian Otieno,Home & Living,Table Lamp,1,1800,1800,1100,700,Cash,3,False,9,October,10,False
+TXN1403,2024-03-13,Karen,Cynthia Mwangi,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,5,False,6,March,3,False
+TXN1404,2024-02-08,CBD,Alice Wanjiru,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,1,True,13,February,2,False
+TXN1405,2024-10-16,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,1,160,160,110,50,Card,4,False,9,October,10,True
+TXN1406,2024-05-17,Westlands,Brian Otieno,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,4,False,12,May,5,False
+TXN1407,2024-03-31,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,3,False,10,March,3,False
+TXN1408,2024-12-18,Thika Road,Esther Njeri,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,4,False,8,December,12,False
+TXN1409,2024-06-16,Eastleigh,David Kimani,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,4,False,12,June,6,False
+TXN1410,2024-07-04,CBD,Alice Wanjiru,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,13,July,7,False
+TXN1411,2024-11-06,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,9,350,3150,250,900,M-Pesa,3,False,10,November,11,False
+TXN1412,2024-07-20,Eastleigh,David Kimani,Groceries,Sugar 1kg,3,160,480,110,150,Card,2,False,15,July,7,False
+TXN1413,2024-07-14,Eastleigh,David Kimani,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,4,False,14,July,7,False
+TXN1414,2024-06-01,Thika Road,Esther Njeri,Groceries,Rice 2kg,7,400,2800,300,700,Cash,4,False,14,June,6,False
+TXN1415,2024-10-21,CBD,Alice Wanjiru,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,3,False,9,October,10,False
+TXN1416,2024-09-17,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,1,False,13,September,9,False
+TXN1417,2024-08-26,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,14,August,8,False
+TXN1418,2024-03-25,Westlands,Brian Otieno,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,3,False,11,March,3,False
+TXN1419,2024-05-01,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,3,False,13,May,5,False
+TXN1420,2024-09-02,Karen,Cynthia Mwangi,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,10,September,9,False
+TXN1421,2024-11-25,Westlands,Brian Otieno,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,7,November,11,False
+TXN1422,2024-07-23,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,13,July,7,False
+TXN1423,2024-10-08,CBD,Alice Wanjiru,Clothing,Jeans,1,2800,2800,1800,1000,Cash,4,False,11,October,10,False
+TXN1424,2024-09-07,Thika Road,Esther Njeri,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,5,False,10,September,9,False
+TXN1425,2024-03-13,CBD,Alice Wanjiru,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,5,False,13,March,3,False
+TXN1426,2024-12-04,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,6,December,12,True
+TXN1427,2024-08-19,Westlands,Brian Otieno,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,9,August,8,False
+TXN1428,2024-10-18,Eastleigh,David Kimani,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,14,October,10,False
+TXN1429,2024-08-08,Karen,Cynthia Mwangi,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,6,August,8,False
+TXN1430,2024-05-11,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,8,May,5,False
+TXN1431,2024-09-12,CBD,Alice Wanjiru,Home & Living,Table Lamp,2,1800,3600,1100,1400,Card,2,False,9,September,9,False
+TXN1432,2024-09-06,Westlands,Brian Otieno,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,2,False,11,September,9,False
+TXN1433,2024-07-10,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,3,False,15,July,7,False
+TXN1434,2024-10-03,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,5,180,900,120,300,Card,4,False,10,October,10,False
+TXN1435,2024-02-23,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Cash,5,False,5,February,2,False
+TXN1436,2024-12-01,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,3,350,1050,250,300,Card,5,False,10,December,12,False
+TXN1437,2024-10-20,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,Card,3,False,15,October,10,False
+TXN1438,2024-04-19,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,10,April,4,False
+TXN1439,2024-11-21,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,4,False,12,November,11,True
+TXN1440,2024-03-10,Thika Road,Esther Njeri,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,4,False,12,March,3,True
+TXN1441,2024-08-04,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,Card,3,False,11,August,8,False
+TXN1442,2024-09-12,Karen,Cynthia Mwangi,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,5,False,8,September,9,False
+TXN1443,2024-06-11,Thika Road,Esther Njeri,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,12,June,6,False
+TXN1444,2024-10-30,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,8,350,2800,250,800,Card,1,False,10,October,10,False
+TXN1445,2024-08-22,Westlands,Brian Otieno,Clothing,Sneakers,1,3500,3500,2200,1300,Cash,4,False,9,August,8,False
+TXN1446,2024-01-19,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,5,False,6,January,1,False
+TXN1447,2024-07-01,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,Cash,4,False,15,July,7,False
+TXN1448,2024-06-14,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,Card,5,True,14,June,6,False
+TXN1449,2024-03-15,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,Card,2,False,11,March,3,False
+TXN1450,2024-11-16,Eastleigh,David Kimani,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,5,False,11,November,11,False
+TXN1451,2024-04-21,CBD,Alice Wanjiru,Clothing,Jacket,3,4500,13500,3000,4500,Card,5,False,15,April,4,False
+TXN1452,2024-07-02,Westlands,Brian Otieno,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,5,False,12,July,7,False
+TXN1453,2024-12-29,Karen,Cynthia Mwangi,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,4,False,10,December,12,True
+TXN1454,2024-04-25,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Cash,5,False,11,April,4,False
+TXN1455,2024-03-13,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,4,False,7,March,3,False
+TXN1456,2024-08-09,Eastleigh,David Kimani,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,5,False,14,August,8,False
+TXN1457,2024-01-11,Westlands,Brian Otieno,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,3,True,8,January,1,False
+TXN1458,2024-02-21,Thika Road,Esther Njeri,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,1,False,11,February,2,False
+TXN1459,2024-04-19,Thika Road,Esther Njeri,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,13,April,4,False
+TXN1460,2024-04-10,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,3,False,12,April,4,False
+TXN1461,2024-05-09,Karen,Cynthia Mwangi,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,3,False,8,May,5,False
+TXN1462,2024-04-21,Eastleigh,David Kimani,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,5,True,16,April,4,False
+TXN1463,2024-07-02,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,5,False,7,July,7,False
+TXN1464,2024-09-27,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,5,False,8,September,9,False
+TXN1465,2024-02-07,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,Card,4,False,8,February,2,False
+TXN1466,2024-08-11,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,12,August,8,False
+TXN1467,2024-11-05,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,Card,2,False,14,November,11,False
+TXN1468,2024-02-22,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,Card,5,False,8,February,2,False
+TXN1469,2024-03-12,CBD,Alice Wanjiru,Groceries,Rice 2kg,3,400,1200,300,300,Cash,3,False,14,March,3,False
+TXN1470,2024-12-14,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,5,False,13,December,12,False
+TXN1471,2024-01-13,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,1,350,350,250,100,Card,3,False,14,January,1,False
+TXN1472,2024-09-29,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,3,False,8,September,9,False
+TXN1473,2024-08-16,CBD,Alice Wanjiru,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,12,August,8,False
+TXN1474,2024-04-05,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,2,350,700,250,200,M-Pesa,4,False,11,April,4,True
+TXN1475,2024-02-24,CBD,Alice Wanjiru,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,2,False,11,February,2,False
+TXN1476,2024-11-08,Eastleigh,David Kimani,Groceries,Sugar 1kg,1,160,160,110,50,Card,3,False,11,November,11,False
+TXN1477,2024-05-19,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,4,False,13,May,5,False
+TXN1478,2024-02-11,Karen,Cynthia Mwangi,Clothing,Jacket,3,4500,13500,3000,4500,Card,4,False,7,February,2,False
+TXN1479,2024-02-25,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,12,February,2,False
+TXN1480,2024-10-31,Thika Road,Esther Njeri,Groceries,Sugar 1kg,8,160,1280,110,400,Cash,4,False,10,October,10,False
+TXN1481,2024-01-28,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,5,False,12,January,1,False
+TXN1482,2024-09-25,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,12,September,9,False
+TXN1483,2024-08-25,Karen,Cynthia Mwangi,Electronics,Earphones,2,2500,5000,1500,2000,Cash,5,False,8,August,8,False
+TXN1484,2024-05-16,Eastleigh,David Kimani,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,3,True,17,May,5,False
+TXN1485,2024-04-27,Westlands,Brian Otieno,Groceries,Rice 2kg,8,400,3200,300,800,M-Pesa,5,False,7,April,4,False
+TXN1486,2024-04-22,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,Card,4,False,8,April,4,False
+TXN1487,2024-05-11,CBD,Alice Wanjiru,Electronics,Earphones,2,2500,5000,1500,2000,Cash,5,False,14,May,5,False
+TXN1488,2024-10-20,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,4,350,1400,250,400,Card,4,False,14,October,10,False
+TXN1489,2024-03-10,CBD,Alice Wanjiru,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,2,False,11,March,3,False
+TXN1490,2024-12-25,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,5,False,6,December,12,False
+TXN1491,2024-08-24,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Cash,2,False,14,August,8,False
+TXN1492,2024-12-25,Eastleigh,David Kimani,Groceries,Sugar 1kg,7,160,1120,110,350,M-Pesa,3,False,13,December,12,False
+TXN1493,2024-08-07,Westlands,Brian Otieno,Electronics,Power Bank,3,3500,10500,2200,3900,Card,2,False,12,August,8,False
+TXN1494,2024-12-10,Eastleigh,David Kimani,Clothing,Jeans,1,2800,2800,1800,1000,Card,4,False,11,December,12,False
+TXN1495,2024-11-30,CBD,Alice Wanjiru,Groceries,Sugar 1kg,8,160,1280,110,400,M-Pesa,4,False,14,November,11,True
+TXN1496,2024-05-20,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Cash,3,False,14,May,5,False
+TXN1497,2024-05-22,Thika Road,Esther Njeri,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,2,False,10,May,5,False
+TXN1498,2024-10-31,CBD,Alice Wanjiru,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,4,False,10,October,10,False
+TXN1499,2024-09-29,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,4,False,14,September,9,False
+TXN1500,2024-12-02,Karen,Cynthia Mwangi,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,5,False,7,December,12,False
+TXN1501,2024-05-24,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,3,False,6,May,5,False
+TXN1502,2024-11-19,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,8,November,11,False
+TXN1503,2024-05-15,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,11,May,5,True
+TXN1504,2024-04-12,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,1,False,11,April,4,False
+TXN1505,2024-02-29,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,7,180,1260,120,420,Card,5,False,9,February,2,False
+TXN1506,2024-01-04,Thika Road,Esther Njeri,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,3,False,14,January,1,False
+TXN1507,2024-01-06,Karen,Cynthia Mwangi,Clothing,Jeans,3,2800,8400,1800,3000,Card,3,False,11,January,1,False
+TXN1508,2024-08-01,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,5,True,10,August,8,False
+TXN1509,2024-11-11,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,2,180,360,120,120,M-Pesa,3,False,17,November,11,False
+TXN1510,2024-06-23,Thika Road,Esther Njeri,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,3,False,14,June,6,False
+TXN1511,2024-01-25,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,7,180,1260,120,420,Card,4,False,12,January,1,True
+TXN1512,2024-02-17,Westlands,Brian Otieno,Clothing,Jacket,3,4500,13500,3000,4500,Card,3,False,8,February,2,False
+TXN1513,2024-03-04,Westlands,Brian Otieno,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,10,March,3,True
+TXN1514,2024-01-18,Karen,Cynthia Mwangi,Clothing,Jeans,2,2800,5600,1800,2000,Card,3,False,9,January,1,False
+TXN1515,2024-07-06,Thika Road,Esther Njeri,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,11,July,7,False
+TXN1516,2024-07-09,Eastleigh,David Kimani,Electronics,Earphones,3,2500,7500,1500,3000,Card,3,False,14,July,7,False
+TXN1517,2024-11-20,Westlands,Brian Otieno,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Card,3,False,10,November,11,False
+TXN1518,2024-03-11,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,4,False,11,March,3,False
+TXN1519,2024-04-15,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,12,April,4,False
+TXN1520,2024-09-28,Westlands,Brian Otieno,Groceries,Rice 2kg,3,400,1200,300,300,Card,4,False,11,September,9,False
+TXN1521,2024-01-22,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,3,False,14,January,1,False
+TXN1522,2024-05-27,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,5,350,1750,250,500,M-Pesa,4,False,12,May,5,False
+TXN1523,2024-10-26,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,4,False,11,October,10,False
+TXN1524,2024-12-06,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,Card,4,False,14,December,12,False
+TXN1525,2024-09-29,Thika Road,Esther Njeri,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,4,False,14,September,9,True
+TXN1526,2024-11-01,Eastleigh,David Kimani,Electronics,Phone Charger,3,1500,4500,900,1800,Cash,3,False,17,November,11,False
+TXN1527,2024-04-15,Eastleigh,David Kimani,Clothing,Jeans,3,2800,8400,1800,3000,Cash,5,False,14,April,4,False
+TXN1528,2024-10-09,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,2,180,360,120,120,M-Pesa,3,False,14,October,10,False
+TXN1529,2024-09-22,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,3,False,12,September,9,False
+TXN1530,2024-08-24,CBD,Alice Wanjiru,Groceries,Sugar 1kg,9,160,1440,110,450,Cash,4,False,12,August,8,False
+TXN1531,2024-03-13,Eastleigh,David Kimani,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,12,March,3,True
+TXN1532,2024-11-16,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,5,False,8,November,11,False
+TXN1533,2024-01-12,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,4,False,11,January,1,True
+TXN1534,2024-05-25,Westlands,Brian Otieno,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Card,4,False,8,May,5,False
+TXN1535,2024-12-21,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,False,9,December,12,False
+TXN1536,2024-05-28,Karen,Cynthia Mwangi,Clothing,Jacket,2,4500,9000,3000,3000,Card,4,False,10,May,5,False
+TXN1537,2024-07-17,Eastleigh,David Kimani,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,11,July,7,False
+TXN1538,2024-09-12,Karen,Cynthia Mwangi,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,10,September,9,False
+TXN1539,2024-07-08,Thika Road,Esther Njeri,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,10,July,7,True
+TXN1540,2024-10-04,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,11,October,10,True
+TXN1541,2024-12-08,Karen,Cynthia Mwangi,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,5,False,11,December,12,False
+TXN1542,2024-07-11,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,4,False,11,July,7,False
+TXN1543,2024-06-09,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,3,False,8,June,6,False
+TXN1544,2024-08-30,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,10,August,8,True
+TXN1545,2024-02-21,Thika Road,Esther Njeri,Groceries,Sugar 1kg,3,160,480,110,150,M-Pesa,4,False,12,February,2,False
+TXN1546,2024-10-25,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,11,October,10,False
+TXN1547,2024-09-23,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,8,September,9,False
+TXN1548,2024-08-07,CBD,Alice Wanjiru,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,2,False,11,August,8,False
+TXN1549,2024-11-19,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,3,350,1050,250,300,Cash,4,False,12,November,11,True
+TXN1550,2024-09-25,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,9,350,3150,250,900,Cash,5,False,13,September,9,False
+TXN1551,2024-05-01,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,7,180,1260,120,420,Card,4,False,8,May,5,False
+TXN1552,2024-02-23,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,False,10,February,2,False
+TXN1553,2024-04-02,Thika Road,Esther Njeri,Groceries,Rice 2kg,9,400,3600,300,900,M-Pesa,4,False,14,April,4,False
+TXN1554,2024-08-31,Westlands,Brian Otieno,Home & Living,Table Lamp,1,1800,1800,1100,700,Cash,5,False,12,August,8,False
+TXN1555,2024-05-17,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,2,False,15,May,5,False
+TXN1556,2024-01-04,CBD,Alice Wanjiru,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,12,January,1,True
+TXN1557,2024-07-07,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,9,July,7,False
+TXN1558,2024-06-04,Eastleigh,David Kimani,Home & Living,Table Lamp,3,1800,5400,1100,2100,Cash,4,False,15,June,6,False
+TXN1559,2024-02-08,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,6,350,2100,250,600,M-Pesa,5,False,12,February,2,False
+TXN1560,2024-06-29,Thika Road,Esther Njeri,Clothing,Jeans,2,2800,5600,1800,2000,Cash,5,True,8,June,6,False
+TXN1561,2024-03-26,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,2,False,9,March,3,False
+TXN1562,2024-12-15,Karen,Cynthia Mwangi,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,11,December,12,False
+TXN1563,2024-09-14,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,17,September,9,False
+TXN1564,2024-07-04,CBD,Alice Wanjiru,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,3,False,12,July,7,False
+TXN1565,2024-01-22,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,Card,4,False,10,January,1,False
+TXN1566,2024-06-15,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,2,False,14,June,6,False
+TXN1567,2024-02-11,Thika Road,Esther Njeri,Groceries,Sugar 1kg,7,160,1120,110,350,M-Pesa,1,False,10,February,2,False
+TXN1568,2024-09-22,Eastleigh,David Kimani,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,15,September,9,False
+TXN1569,2024-01-08,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,10,January,1,True
+TXN1570,2024-11-28,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,5,November,11,False
+TXN1571,2024-10-04,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Cash,3,False,13,October,10,False
+TXN1572,2024-01-12,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,9,January,1,False
+TXN1573,2024-01-25,Westlands,Brian Otieno,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,3,False,12,January,1,False
+TXN1574,2024-02-25,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,1,False,11,February,2,False
+TXN1575,2024-01-06,Thika Road,Esther Njeri,Electronics,Phone Charger,2,1500,3000,900,1200,Card,4,False,12,January,1,False
+TXN1576,2024-06-23,Eastleigh,David Kimani,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,17,June,6,False
+TXN1577,2024-08-25,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,3,False,11,August,8,False
+TXN1578,2024-12-03,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,2,False,17,December,12,False
+TXN1579,2024-02-06,Westlands,Brian Otieno,Groceries,Sugar 1kg,3,160,480,110,150,M-Pesa,4,False,9,February,2,False
+TXN1580,2024-05-29,Eastleigh,David Kimani,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,4,False,13,May,5,False
+TXN1581,2024-03-25,CBD,Alice Wanjiru,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,9,March,3,False
+TXN1582,2024-03-17,Karen,Cynthia Mwangi,Clothing,Jacket,1,4500,4500,3000,1500,Card,3,False,6,March,3,False
+TXN1583,2024-03-28,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,11,March,3,True
+TXN1584,2024-12-12,CBD,Alice Wanjiru,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,2,False,13,December,12,False
+TXN1585,2024-05-27,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Card,3,False,13,May,5,False
+TXN1586,2024-11-26,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,2,350,700,250,200,Cash,4,False,13,November,11,False
+TXN1587,2024-05-25,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,3,False,12,May,5,False
+TXN1588,2024-05-05,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,4,False,6,May,5,False
+TXN1589,2024-11-24,CBD,Alice Wanjiru,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,4,False,10,November,11,False
+TXN1590,2024-02-14,Thika Road,Esther Njeri,Groceries,Rice 2kg,9,400,3600,300,900,M-Pesa,4,False,9,February,2,True
+TXN1591,2024-01-30,CBD,Alice Wanjiru,Groceries,Rice 2kg,8,400,3200,300,800,M-Pesa,1,False,12,January,1,False
+TXN1592,2024-01-09,Thika Road,Esther Njeri,Groceries,Rice 2kg,1,400,400,300,100,M-Pesa,5,False,8,January,1,False
+TXN1593,2024-10-02,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,4,180,720,120,240,Cash,3,False,13,October,10,False
+TXN1594,2024-07-09,CBD,Alice Wanjiru,Electronics,Power Bank,3,3500,10500,2200,3900,Cash,4,False,14,July,7,True
+TXN1595,2024-05-20,Eastleigh,David Kimani,Groceries,Rice 2kg,8,400,3200,300,800,M-Pesa,4,False,15,May,5,False
+TXN1596,2024-04-12,Thika Road,Esther Njeri,Electronics,Earphones,2,2500,5000,1500,2000,Card,4,False,14,April,4,False
+TXN1597,2024-08-23,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,7,180,1260,120,420,Card,4,False,13,August,8,False
+TXN1598,2024-03-15,Eastleigh,David Kimani,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,5,False,15,March,3,False
+TXN1599,2024-12-26,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,17,December,12,False
+TXN1600,2024-01-30,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,2,False,5,January,1,False
+TXN1601,2024-03-23,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,Cash,3,False,7,March,3,False
+TXN1602,2024-08-02,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,Card,3,False,13,August,8,False
+TXN1603,2024-10-10,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,3,180,540,120,180,Cash,4,False,7,October,10,False
+TXN1604,2024-11-23,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,Cash,5,False,8,November,11,False
+TXN1605,2024-11-07,Eastleigh,David Kimani,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,13,November,11,False
+TXN1606,2024-06-20,CBD,Alice Wanjiru,Clothing,Jeans,1,2800,2800,1800,1000,Card,4,False,11,June,6,False
+TXN1607,2024-07-27,Karen,Cynthia Mwangi,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,5,False,9,July,7,False
+TXN1608,2024-09-09,Thika Road,Esther Njeri,Clothing,T-Shirt,3,1200,3600,700,1500,Card,3,True,14,September,9,False
+TXN1609,2024-01-27,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,3,False,10,January,1,False
+TXN1610,2024-12-17,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Cash,4,False,13,December,12,False
+TXN1611,2024-04-07,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,2,False,12,April,4,False
+TXN1612,2024-11-05,Westlands,Brian Otieno,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,7,November,11,False
+TXN1613,2024-10-17,Thika Road,Esther Njeri,Groceries,Rice 2kg,1,400,400,300,100,M-Pesa,1,False,9,October,10,False
+TXN1614,2024-12-15,CBD,Alice Wanjiru,Electronics,Phone Charger,1,1500,1500,900,600,Cash,2,False,15,December,12,False
+TXN1615,2024-07-15,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,5,False,7,July,7,False
+TXN1616,2024-09-07,CBD,Alice Wanjiru,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,10,September,9,False
+TXN1617,2024-06-19,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Card,2,False,5,June,6,False
+TXN1618,2024-12-27,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,13,December,12,False
+TXN1619,2024-03-19,Westlands,Brian Otieno,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,4,False,13,March,3,False
+TXN1620,2024-10-22,Westlands,Brian Otieno,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Cash,4,False,7,October,10,True
+TXN1621,2024-11-29,CBD,Alice Wanjiru,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,3,False,11,November,11,False
+TXN1622,2024-11-23,CBD,Alice Wanjiru,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,2,False,14,November,11,False
+TXN1623,2024-03-02,Thika Road,Esther Njeri,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,2,False,13,March,3,False
+TXN1624,2024-04-21,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,5,False,13,April,4,False
+TXN1625,2024-02-25,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Card,4,False,5,February,2,True
+TXN1626,2024-07-16,Thika Road,Esther Njeri,Clothing,T-Shirt,3,1200,3600,700,1500,Card,4,False,8,July,7,False
+TXN1627,2024-01-26,Eastleigh,David Kimani,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,11,January,1,False
+TXN1628,2024-04-17,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,12,April,4,False
+TXN1629,2024-05-04,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Card,3,False,13,May,5,False
+TXN1630,2024-07-16,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,1,180,180,120,60,M-Pesa,5,False,6,July,7,False
+TXN1631,2024-10-08,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,2,False,15,October,10,False
+TXN1632,2024-04-06,Thika Road,Esther Njeri,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,5,False,9,April,4,False
+TXN1633,2024-01-03,Westlands,Brian Otieno,Groceries,Sugar 1kg,7,160,1120,110,350,Card,4,False,13,January,1,False
+TXN1634,2024-01-10,Westlands,Brian Otieno,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,3,False,8,January,1,False
+TXN1635,2024-06-18,Karen,Cynthia Mwangi,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,5,False,8,June,6,False
+TXN1636,2024-07-05,Westlands,Brian Otieno,Groceries,Sugar 1kg,4,160,640,110,200,M-Pesa,3,False,8,July,7,False
+TXN1637,2024-07-21,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,7,July,7,False
+TXN1638,2024-04-06,CBD,Alice Wanjiru,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,3,False,13,April,4,False
+TXN1639,2024-11-01,Westlands,Brian Otieno,Electronics,Phone Charger,2,1500,3000,900,1200,Cash,4,False,9,November,11,False
+TXN1640,2024-07-30,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,9,180,1620,120,540,Cash,1,False,12,July,7,False
+TXN1641,2024-02-16,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,5,False,8,February,2,False
+TXN1642,2024-01-26,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,1,350,350,250,100,M-Pesa,4,False,10,January,1,False
+TXN1643,2024-09-29,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Card,5,False,11,September,9,False
+TXN1644,2024-12-21,Thika Road,Esther Njeri,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,13,December,12,True
+TXN1645,2024-05-08,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,8,350,2800,250,800,Card,4,False,9,May,5,False
+TXN1646,2024-08-20,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,7,350,2450,250,700,M-Pesa,4,False,6,August,8,True
+TXN1647,2024-03-08,Thika Road,Esther Njeri,Clothing,Jeans,2,2800,5600,1800,2000,Card,5,False,9,March,3,False
+TXN1648,2024-03-18,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,4,False,10,March,3,True
+TXN1649,2024-07-23,CBD,Alice Wanjiru,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,14,July,7,False
+TXN1650,2024-11-17,Eastleigh,David Kimani,Home & Living,Table Lamp,2,1800,3600,1100,1400,Cash,4,False,16,November,11,False
+TXN1651,2024-01-18,Eastleigh,David Kimani,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,14,January,1,False
+TXN1652,2024-03-24,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,Card,4,False,9,March,3,False
+TXN1653,2024-01-23,Thika Road,Esther Njeri,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,1,False,12,January,1,False
+TXN1654,2024-09-23,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,3,True,11,September,9,False
+TXN1655,2024-02-03,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,1,180,180,120,60,Card,4,False,10,February,2,False
+TXN1656,2024-12-19,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,2,False,11,December,12,False
+TXN1657,2024-09-18,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,Card,4,False,10,September,9,False
+TXN1658,2024-11-04,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,12,November,11,False
+TXN1659,2024-12-07,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,7,350,2450,250,700,Cash,3,False,11,December,12,False
+TXN1660,2024-10-20,Thika Road,Esther Njeri,Groceries,Rice 2kg,7,400,2800,300,700,M-Pesa,4,False,11,October,10,True
+TXN1661,2024-10-20,Karen,Cynthia Mwangi,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,3,False,6,October,10,False
+TXN1662,2024-01-18,Eastleigh,David Kimani,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,5,False,11,January,1,False
+TXN1663,2024-10-08,CBD,Alice Wanjiru,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,2,True,11,October,10,False
+TXN1664,2024-08-19,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,1,350,350,250,100,M-Pesa,5,False,13,August,8,False
+TXN1665,2024-04-19,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,5,False,13,April,4,False
+TXN1666,2024-06-09,Thika Road,Esther Njeri,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Card,3,False,8,June,6,False
+TXN1667,2024-07-26,CBD,Alice Wanjiru,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,12,July,7,False
+TXN1668,2024-06-30,Thika Road,Esther Njeri,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,5,False,10,June,6,False
+TXN1669,2024-04-17,Eastleigh,David Kimani,Electronics,Phone Charger,2,1500,3000,900,1200,Card,4,False,12,April,4,True
+TXN1670,2024-03-28,Eastleigh,David Kimani,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,17,March,3,False
+TXN1671,2024-11-28,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,8,350,2800,250,800,Cash,4,False,13,November,11,False
+TXN1672,2024-08-27,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,1,False,15,August,8,False
+TXN1673,2024-08-24,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,8,August,8,False
+TXN1674,2024-12-01,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,2,False,9,December,12,False
+TXN1675,2024-08-31,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,13,August,8,False
+TXN1676,2024-03-15,Westlands,Brian Otieno,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,12,March,3,False
+TXN1677,2024-06-19,CBD,Alice Wanjiru,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,3,False,15,June,6,False
+TXN1678,2024-12-16,Westlands,Brian Otieno,Electronics,Power Bank,2,3500,7000,2200,2600,Card,5,False,10,December,12,False
+TXN1679,2024-03-03,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,3,False,15,March,3,False
+TXN1680,2024-12-01,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,2,False,14,December,12,False
+TXN1681,2024-12-09,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,7,350,2450,250,700,M-Pesa,5,False,10,December,12,False
+TXN1682,2024-02-28,CBD,Alice Wanjiru,Clothing,Jacket,2,4500,9000,3000,3000,Cash,5,False,12,February,2,False
+TXN1683,2024-06-16,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,8,160,1280,110,400,M-Pesa,4,False,7,June,6,False
+TXN1684,2024-01-27,Eastleigh,David Kimani,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Card,4,False,16,January,1,True
+TXN1685,2024-05-03,CBD,Alice Wanjiru,Clothing,T-Shirt,3,1200,3600,700,1500,Cash,3,True,12,May,5,False
+TXN1686,2024-05-30,Eastleigh,David Kimani,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,3,False,15,May,5,False
+TXN1687,2024-03-02,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,3,False,14,March,3,False
+TXN1688,2024-02-03,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,11,February,2,True
+TXN1689,2024-01-10,Karen,Cynthia Mwangi,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,3,False,8,January,1,False
+TXN1690,2024-07-31,CBD,Alice Wanjiru,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,4,False,9,July,7,False
+TXN1691,2024-03-03,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,8,180,1440,120,480,Cash,4,False,8,March,3,False
+TXN1692,2024-09-22,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,Card,5,False,9,September,9,False
+TXN1693,2024-06-30,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,3,False,12,June,6,False
+TXN1694,2024-07-11,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,3,180,540,120,180,M-Pesa,4,False,10,July,7,False
+TXN1695,2024-02-24,Eastleigh,David Kimani,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,5,False,14,February,2,False
+TXN1696,2024-03-27,CBD,Alice Wanjiru,Electronics,Earphones,3,2500,7500,1500,3000,Cash,4,False,9,March,3,True
+TXN1697,2024-02-11,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,8,February,2,False
+TXN1698,2024-09-02,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,2,False,11,September,9,False
+TXN1699,2024-10-11,CBD,Alice Wanjiru,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,4,False,12,October,10,True
+TXN1700,2024-07-28,CBD,Alice Wanjiru,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,1,False,14,July,7,False
+TXN1701,2024-07-06,Thika Road,Esther Njeri,Groceries,Sugar 1kg,3,160,480,110,150,M-Pesa,3,False,10,July,7,False
+TXN1702,2024-01-10,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,7,January,1,False
+TXN1703,2024-01-18,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,Cash,5,False,11,January,1,False
+TXN1704,2024-02-07,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,5,False,11,February,2,False
+TXN1705,2024-08-07,Eastleigh,David Kimani,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,3,False,17,August,8,False
+TXN1706,2024-10-30,Eastleigh,David Kimani,Groceries,Sugar 1kg,4,160,640,110,200,Card,5,False,15,October,10,False
+TXN1707,2024-04-15,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,6,350,2100,250,600,Card,5,False,11,April,4,False
+TXN1708,2024-04-17,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,7,April,4,False
+TXN1709,2024-06-10,Westlands,Brian Otieno,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,1,False,12,June,6,False
+TXN1710,2024-01-03,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,4,False,9,January,1,False
+TXN1711,2024-08-18,CBD,Alice Wanjiru,Groceries,Sugar 1kg,5,160,800,110,250,Card,4,False,12,August,8,True
+TXN1712,2024-10-03,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,13,October,10,False
+TXN1713,2024-10-22,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,6,350,2100,250,600,Card,2,False,11,October,10,False
+TXN1714,2024-09-05,Thika Road,Esther Njeri,Groceries,Rice 2kg,6,400,2400,300,600,M-Pesa,3,False,11,September,9,False
+TXN1715,2024-08-03,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,11,August,8,False
+TXN1716,2024-12-18,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,4,False,14,December,12,False
+TXN1717,2024-04-26,Westlands,Brian Otieno,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,4,False,8,April,4,False
+TXN1718,2024-10-23,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,9,350,3150,250,900,M-Pesa,4,False,11,October,10,False
+TXN1719,2024-03-31,Westlands,Brian Otieno,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Card,4,False,12,March,3,False
+TXN1720,2024-10-04,Westlands,Brian Otieno,Electronics,Power Bank,2,3500,7000,2200,2600,Card,4,False,13,October,10,True
+TXN1721,2024-11-15,Westlands,Brian Otieno,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,4,False,13,November,11,False
+TXN1722,2024-01-02,Thika Road,Esther Njeri,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,5,False,8,January,1,False
+TXN1723,2024-12-12,Westlands,Brian Otieno,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,11,December,12,False
+TXN1724,2024-08-13,Thika Road,Esther Njeri,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,14,August,8,False
+TXN1725,2024-02-08,Eastleigh,David Kimani,Clothing,Sneakers,1,3500,3500,2200,1300,Cash,4,False,16,February,2,True
+TXN1726,2024-01-21,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,2,False,9,January,1,False
+TXN1727,2024-04-12,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,True,9,April,4,True
+TXN1728,2024-03-09,CBD,Alice Wanjiru,Groceries,Rice 2kg,6,400,2400,300,600,Cash,3,False,10,March,3,False
+TXN1729,2024-02-18,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,5,180,900,120,300,Card,3,False,11,February,2,False
+TXN1730,2024-09-10,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Cash,4,False,5,September,9,False
+TXN1731,2024-05-28,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,5,False,12,May,5,False
+TXN1732,2024-09-20,CBD,Alice Wanjiru,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,5,False,13,September,9,False
+TXN1733,2024-10-02,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,12,October,10,False
+TXN1734,2024-03-20,Eastleigh,David Kimani,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,5,True,14,March,3,False
+TXN1735,2024-06-14,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,1,False,8,June,6,False
+TXN1736,2024-08-07,Thika Road,Esther Njeri,Groceries,Sugar 1kg,4,160,640,110,200,M-Pesa,3,False,12,August,8,False
+TXN1737,2024-05-08,Westlands,Brian Otieno,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,3,False,8,May,5,False
+TXN1738,2024-11-09,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,Card,3,False,8,November,11,False
+TXN1739,2024-07-27,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,5,July,7,False
+TXN1740,2024-10-27,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Cash,3,False,11,October,10,False
+TXN1741,2024-02-28,CBD,Alice Wanjiru,Groceries,Sugar 1kg,9,160,1440,110,450,M-Pesa,4,False,11,February,2,False
+TXN1742,2024-11-20,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,2,160,320,110,100,Cash,2,False,9,November,11,False
+TXN1743,2024-02-08,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,3,False,8,February,2,False
+TXN1744,2024-05-11,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,3,False,12,May,5,False
+TXN1745,2024-08-04,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,9,August,8,False
+TXN1746,2024-06-12,Eastleigh,David Kimani,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,4,False,14,June,6,False
+TXN1747,2024-10-26,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,1,180,180,120,60,Cash,5,False,13,October,10,False
+TXN1748,2024-04-10,Westlands,Brian Otieno,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Cash,4,False,10,April,4,False
+TXN1749,2024-01-02,Karen,Cynthia Mwangi,Clothing,Jacket,1,4500,4500,3000,1500,Card,4,False,5,January,1,False
+TXN1750,2024-01-12,Karen,Cynthia Mwangi,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,5,False,9,January,1,False
+TXN1751,2024-04-09,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,2,180,360,120,120,Card,5,True,7,April,4,False
+TXN1752,2024-12-14,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,1,180,180,120,60,Card,4,False,12,December,12,False
+TXN1753,2024-03-02,Westlands,Brian Otieno,Electronics,Earphones,2,2500,5000,1500,2000,Cash,1,False,12,March,3,False
+TXN1754,2024-07-14,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,5,False,12,July,7,False
+TXN1755,2024-02-01,CBD,Alice Wanjiru,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,True,14,February,2,False
+TXN1756,2024-03-02,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,5,False,10,March,3,False
+TXN1757,2024-09-02,CBD,Alice Wanjiru,Home & Living,Table Lamp,3,1800,5400,1100,2100,Cash,5,False,12,September,9,False
+TXN1758,2024-10-26,Westlands,Brian Otieno,Clothing,T-Shirt,2,1200,2400,700,1000,Card,4,False,9,October,10,True
+TXN1759,2024-02-24,Karen,Cynthia Mwangi,Clothing,Jeans,1,2800,2800,1800,1000,Card,5,False,9,February,2,False
+TXN1760,2024-10-24,Eastleigh,David Kimani,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Card,2,False,11,October,10,False
+TXN1761,2024-02-15,Eastleigh,David Kimani,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,3,False,16,February,2,False
+TXN1762,2024-11-08,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,Card,1,False,11,November,11,False
+TXN1763,2024-02-09,Westlands,Brian Otieno,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,5,False,9,February,2,False
+TXN1764,2024-04-06,Westlands,Brian Otieno,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,4,False,10,April,4,False
+TXN1765,2024-09-25,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,11,September,9,False
+TXN1766,2024-02-08,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,10,February,2,False
+TXN1767,2024-08-03,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,3,False,9,August,8,False
+TXN1768,2024-09-02,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,13,September,9,False
+TXN1769,2024-05-20,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,4,False,8,May,5,False
+TXN1770,2024-02-20,Westlands,Brian Otieno,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,4,False,8,February,2,False
+TXN1771,2024-11-18,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Cash,4,False,13,November,11,False
+TXN1772,2024-04-01,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,9,April,4,False
+TXN1773,2024-12-21,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,3,350,1050,250,300,Card,4,False,11,December,12,True
+TXN1774,2024-10-25,Westlands,Brian Otieno,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,4,False,7,October,10,True
+TXN1775,2024-08-19,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,Card,4,False,11,August,8,True
+TXN1776,2024-12-11,Westlands,Brian Otieno,Groceries,Sugar 1kg,5,160,800,110,250,Card,5,False,7,December,12,False
+TXN1777,2024-02-13,Eastleigh,David Kimani,Electronics,Phone Charger,3,1500,4500,900,1800,Card,3,False,14,February,2,False
+TXN1778,2024-09-04,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,4,False,8,September,9,False
+TXN1779,2024-04-03,Thika Road,Esther Njeri,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,5,True,10,April,4,False
+TXN1780,2024-01-02,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,4,False,12,January,1,False
+TXN1781,2024-01-25,Westlands,Brian Otieno,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,7,January,1,False
+TXN1782,2024-02-17,CBD,Alice Wanjiru,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,3,False,9,February,2,False
+TXN1783,2024-11-04,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Cash,4,False,17,November,11,False
+TXN1784,2024-11-27,Thika Road,Esther Njeri,Groceries,Sugar 1kg,9,160,1440,110,450,M-Pesa,4,False,12,November,11,True
+TXN1785,2024-10-29,Eastleigh,David Kimani,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,4,False,11,October,10,False
+TXN1786,2024-10-18,CBD,Alice Wanjiru,Electronics,Earphones,1,2500,2500,1500,1000,Card,4,False,15,October,10,False
+TXN1787,2024-02-29,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,7,180,1260,120,420,Cash,2,False,6,February,2,False
+TXN1788,2024-10-05,CBD,Alice Wanjiru,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,5,False,11,October,10,False
+TXN1789,2024-05-30,CBD,Alice Wanjiru,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,15,May,5,False
+TXN1790,2024-04-29,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,3,False,9,April,4,False
+TXN1791,2024-09-09,CBD,Alice Wanjiru,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,15,September,9,True
+TXN1792,2024-01-21,Westlands,Brian Otieno,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,3,False,9,January,1,False
+TXN1793,2024-05-16,Eastleigh,David Kimani,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,5,False,15,May,5,False
+TXN1794,2024-10-27,Westlands,Brian Otieno,Clothing,T-Shirt,2,1200,2400,700,1000,Card,3,False,13,October,10,False
+TXN1795,2024-01-31,Karen,Cynthia Mwangi,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,2,False,11,January,1,False
+TXN1796,2024-07-09,Karen,Cynthia Mwangi,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,4,False,5,July,7,False
+TXN1797,2024-11-23,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,4,False,16,November,11,False
+TXN1798,2024-04-09,Karen,Cynthia Mwangi,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,4,True,8,April,4,False
+TXN1799,2024-05-09,Eastleigh,David Kimani,Home & Living,Wall Clock,2,1200,2400,700,1000,Cash,5,False,17,May,5,False
+TXN1800,2024-07-12,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,4,False,9,July,7,False
+TXN1801,2024-07-09,Eastleigh,David Kimani,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,1,False,14,July,7,False
+TXN1802,2024-06-19,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,2,False,10,June,6,False
+TXN1803,2024-04-30,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,3,False,7,April,4,False
+TXN1804,2024-04-04,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,3,350,1050,250,300,Cash,3,False,12,April,4,False
+TXN1805,2024-12-02,Eastleigh,David Kimani,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,2,False,16,December,12,False
+TXN1806,2024-12-09,Thika Road,Esther Njeri,Groceries,Rice 2kg,6,400,2400,300,600,M-Pesa,5,False,13,December,12,False
+TXN1807,2024-06-04,Eastleigh,David Kimani,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,5,False,17,June,6,False
+TXN1808,2024-07-28,Westlands,Brian Otieno,Home & Living,Wall Clock,2,1200,2400,700,1000,Cash,3,False,10,July,7,False
+TXN1809,2024-10-31,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,5,False,12,October,10,False
+TXN1810,2024-04-01,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,2,180,360,120,120,Cash,4,False,17,April,4,True
+TXN1811,2024-01-07,Eastleigh,David Kimani,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,3,False,15,January,1,False
+TXN1812,2024-12-25,Karen,Cynthia Mwangi,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,11,December,12,False
+TXN1813,2024-04-24,Westlands,Brian Otieno,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,4,False,7,April,4,True
+TXN1814,2024-02-08,Karen,Cynthia Mwangi,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,6,February,2,False
+TXN1815,2024-08-27,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,5,False,9,August,8,False
+TXN1816,2024-09-18,Karen,Cynthia Mwangi,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,4,False,7,September,9,False
+TXN1817,2024-07-20,Westlands,Brian Otieno,Clothing,Sneakers,1,3500,3500,2200,1300,Card,5,False,10,July,7,False
+TXN1818,2024-08-24,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,2,False,7,August,8,False
+TXN1819,2024-10-24,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,Cash,5,False,7,October,10,False
+TXN1820,2024-11-18,Eastleigh,David Kimani,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,16,November,11,False
+TXN1821,2024-02-18,Thika Road,Esther Njeri,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,10,February,2,False
+TXN1822,2024-11-03,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Card,4,True,8,November,11,False
+TXN1823,2024-09-04,Karen,Cynthia Mwangi,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,5,September,9,False
+TXN1824,2024-01-12,Westlands,Brian Otieno,Electronics,Phone Charger,1,1500,1500,900,600,Card,4,False,7,January,1,False
+TXN1825,2024-11-07,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,4,False,14,November,11,False
+TXN1826,2024-12-08,Eastleigh,David Kimani,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,3,False,14,December,12,False
+TXN1827,2024-04-12,Eastleigh,David Kimani,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,4,False,17,April,4,False
+TXN1828,2024-12-19,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,12,December,12,False
+TXN1829,2024-10-10,Eastleigh,David Kimani,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,4,False,13,October,10,False
+TXN1830,2024-08-11,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,2,False,5,August,8,False
+TXN1831,2024-05-20,Eastleigh,David Kimani,Electronics,Power Bank,3,3500,10500,2200,3900,Cash,4,False,13,May,5,False
+TXN1832,2024-06-15,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,8,350,2800,250,800,M-Pesa,4,False,14,June,6,False
+TXN1833,2024-08-25,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Card,3,False,11,August,8,False
+TXN1834,2024-05-24,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,9,180,1620,120,540,Card,3,False,10,May,5,False
+TXN1835,2024-03-19,CBD,Alice Wanjiru,Groceries,Rice 2kg,9,400,3600,300,900,Card,3,False,15,March,3,False
+TXN1836,2024-04-25,Karen,Cynthia Mwangi,Groceries,Rice 2kg,6,400,2400,300,600,M-Pesa,4,False,6,April,4,False
+TXN1837,2024-12-11,Eastleigh,David Kimani,Clothing,Jacket,2,4500,9000,3000,3000,Cash,5,False,16,December,12,False
+TXN1838,2024-05-12,CBD,Alice Wanjiru,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,4,False,10,May,5,True
+TXN1839,2024-06-27,Thika Road,Esther Njeri,Groceries,Sugar 1kg,6,160,960,110,300,M-Pesa,4,False,9,June,6,True
+TXN1840,2024-02-03,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,3,False,13,February,2,False
+TXN1841,2024-05-10,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,10,May,5,False
+TXN1842,2024-12-05,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,5,False,11,December,12,False
+TXN1843,2024-09-23,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,2,160,320,110,100,Card,4,False,5,September,9,False
+TXN1844,2024-02-09,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,3,180,540,120,180,M-Pesa,2,False,7,February,2,False
+TXN1845,2024-06-28,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,4,False,11,June,6,False
+TXN1846,2024-06-12,Thika Road,Esther Njeri,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,5,False,12,June,6,False
+TXN1847,2024-08-12,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,5,False,9,August,8,False
+TXN1848,2024-08-16,CBD,Alice Wanjiru,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,5,False,12,August,8,False
+TXN1849,2024-01-29,Westlands,Brian Otieno,Home & Living,Table Lamp,1,1800,1800,1100,700,Cash,5,False,11,January,1,False
+TXN1850,2024-03-17,Thika Road,Esther Njeri,Electronics,Earphones,3,2500,7500,1500,3000,Cash,4,False,9,March,3,True
+TXN1851,2024-04-12,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,3,False,10,April,4,False
+TXN1852,2024-06-13,Thika Road,Esther Njeri,Groceries,Sugar 1kg,9,160,1440,110,450,M-Pesa,4,False,11,June,6,False
+TXN1853,2024-04-01,Karen,Cynthia Mwangi,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,5,April,4,True
+TXN1854,2024-07-24,Karen,Cynthia Mwangi,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,5,July,7,False
+TXN1855,2024-01-02,Thika Road,Esther Njeri,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,11,January,1,False
+TXN1856,2024-06-09,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,Cash,4,False,11,June,6,False
+TXN1857,2024-10-01,CBD,Alice Wanjiru,Clothing,Jeans,2,2800,5600,1800,2000,Card,4,True,10,October,10,False
+TXN1858,2024-08-05,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,False,10,August,8,False
+TXN1859,2024-02-17,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,4,False,14,February,2,False
+TXN1860,2024-07-21,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,6,350,2100,250,600,Cash,3,False,9,July,7,False
+TXN1861,2024-09-05,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,4,False,12,September,9,False
+TXN1862,2024-02-20,Thika Road,Esther Njeri,Groceries,Sugar 1kg,1,160,160,110,50,Card,5,False,13,February,2,False
+TXN1863,2024-06-18,Westlands,Brian Otieno,Clothing,Jacket,3,4500,13500,3000,4500,Card,4,False,13,June,6,False
+TXN1864,2024-05-07,Thika Road,Esther Njeri,Groceries,Rice 2kg,2,400,800,300,200,Card,4,False,8,May,5,False
+TXN1865,2024-11-14,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,4,False,11,November,11,False
+TXN1866,2024-03-22,Eastleigh,David Kimani,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,2,False,11,March,3,False
+TXN1867,2024-03-05,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,Card,5,False,7,March,3,False
+TXN1868,2024-10-04,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,3,False,12,October,10,False
+TXN1869,2024-12-16,Thika Road,Esther Njeri,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,5,False,12,December,12,False
+TXN1870,2024-06-11,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,4,False,9,June,6,False
+TXN1871,2024-05-17,Karen,Cynthia Mwangi,Groceries,Rice 2kg,3,400,1200,300,300,M-Pesa,4,False,6,May,5,False
+TXN1872,2024-08-18,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,Cash,3,False,13,August,8,False
+TXN1873,2024-06-16,Thika Road,Esther Njeri,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,1,False,11,June,6,False
+TXN1874,2024-02-17,Thika Road,Esther Njeri,Clothing,T-Shirt,3,1200,3600,700,1500,Card,4,True,8,February,2,False
+TXN1875,2024-03-02,Thika Road,Esther Njeri,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,True,12,March,3,True
+TXN1876,2024-07-20,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,15,July,7,False
+TXN1877,2024-02-27,Karen,Cynthia Mwangi,Home & Living,Table Lamp,1,1800,1800,1100,700,Cash,5,False,5,February,2,False
+TXN1878,2024-04-20,Karen,Cynthia Mwangi,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,2,True,5,April,4,False
+TXN1879,2024-10-07,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,2,160,320,110,100,Cash,3,False,5,October,10,False
+TXN1880,2024-03-10,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,3,False,14,March,3,False
+TXN1881,2024-01-28,Eastleigh,David Kimani,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,4,False,16,January,1,False
+TXN1882,2024-04-15,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,4,False,7,April,4,False
+TXN1883,2024-02-03,Eastleigh,David Kimani,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,2,False,16,February,2,False
+TXN1884,2024-05-12,CBD,Alice Wanjiru,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,2,True,12,May,5,False
+TXN1885,2024-10-24,Karen,Cynthia Mwangi,Clothing,Sneakers,3,3500,10500,2200,3900,Card,5,False,9,October,10,False
+TXN1886,2024-07-15,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,4,False,11,July,7,True
+TXN1887,2024-10-07,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,2,160,320,110,100,Cash,3,False,5,October,10,False
+TXN1888,2024-07-12,Westlands,Brian Otieno,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,5,False,10,July,7,False
+TXN1889,2024-04-23,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,4,False,11,April,4,False
+TXN1890,2024-12-19,Westlands,Brian Otieno,Electronics,Earphones,3,2500,7500,1500,3000,Card,4,False,12,December,12,False
+TXN1891,2024-07-14,Westlands,Brian Otieno,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,2,False,13,July,7,False
+TXN1892,2024-06-01,Karen,Cynthia Mwangi,Groceries,Rice 2kg,6,400,2400,300,600,Cash,3,False,11,June,6,False
+TXN1893,2024-02-16,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,9,350,3150,250,900,Cash,2,False,8,February,2,False
+TXN1894,2024-06-30,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,True,9,June,6,False
+TXN1895,2024-07-11,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,Cash,4,False,10,July,7,True
+TXN1896,2024-02-14,CBD,Alice Wanjiru,Groceries,Sugar 1kg,9,160,1440,110,450,Cash,4,False,11,February,2,False
+TXN1897,2024-11-05,Westlands,Brian Otieno,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,3,True,8,November,11,False
+TXN1898,2024-08-10,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,7,August,8,False
+TXN1899,2024-06-13,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,8,June,6,False
+TXN1900,2024-12-23,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,13,December,12,False
+TXN1901,2024-09-12,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,5,False,12,September,9,False
+TXN1902,2024-01-28,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,6,350,2100,250,600,M-Pesa,4,True,9,January,1,False
+TXN1903,2024-05-22,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,1,False,9,May,5,False
+TXN1904,2024-08-11,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,5,False,8,August,8,False
+TXN1905,2024-11-02,CBD,Alice Wanjiru,Clothing,Sneakers,3,3500,10500,2200,3900,Cash,4,False,14,November,11,False
+TXN1906,2024-10-27,Eastleigh,David Kimani,Groceries,Rice 2kg,6,400,2400,300,600,Card,3,False,12,October,10,False
+TXN1907,2024-07-08,CBD,Alice Wanjiru,Groceries,Rice 2kg,9,400,3600,300,900,Card,5,False,12,July,7,False
+TXN1908,2024-03-13,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,7,March,3,False
+TXN1909,2024-11-12,CBD,Alice Wanjiru,Clothing,Jeans,2,2800,5600,1800,2000,Cash,4,False,14,November,11,False
+TXN1910,2024-02-18,CBD,Alice Wanjiru,Electronics,Power Bank,3,3500,10500,2200,3900,Card,4,False,11,February,2,False
+TXN1911,2024-04-20,Thika Road,Esther Njeri,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,3,False,14,April,4,False
+TXN1912,2024-10-05,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,5,False,9,October,10,False
+TXN1913,2024-07-11,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,Card,1,False,13,July,7,False
+TXN1914,2024-05-31,Eastleigh,David Kimani,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,4,False,13,May,5,False
+TXN1915,2024-07-08,Westlands,Brian Otieno,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,4,False,12,July,7,False
+TXN1916,2024-07-19,Westlands,Brian Otieno,Clothing,T-Shirt,3,1200,3600,700,1500,Card,4,False,12,July,7,True
+TXN1917,2024-10-07,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,9,October,10,False
+TXN1918,2024-01-14,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,8,180,1440,120,480,M-Pesa,4,False,10,January,1,False
+TXN1919,2024-03-14,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,11,March,3,True
+TXN1920,2024-11-16,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,17,November,11,True
+TXN1921,2024-07-25,Thika Road,Esther Njeri,Groceries,Rice 2kg,3,400,1200,300,300,M-Pesa,4,False,11,July,7,False
+TXN1922,2024-10-23,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,4,False,8,October,10,False
+TXN1923,2024-07-28,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,3,False,14,July,7,False
+TXN1924,2024-05-14,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,7,350,2450,250,700,Card,2,False,7,May,5,False
+TXN1925,2024-07-31,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,4,False,15,July,7,False
+TXN1926,2024-11-12,Eastleigh,David Kimani,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,2,False,16,November,11,False
+TXN1927,2024-12-28,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,8,350,2800,250,800,Card,4,False,13,December,12,False
+TXN1928,2024-11-08,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,2,False,8,November,11,False
+TXN1929,2024-06-28,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,7,June,6,True
+TXN1930,2024-03-23,CBD,Alice Wanjiru,Clothing,T-Shirt,2,1200,2400,700,1000,Card,4,False,12,March,3,False
+TXN1931,2024-08-31,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,13,August,8,False
+TXN1932,2024-05-02,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,8,350,2800,250,800,Cash,3,False,10,May,5,False
+TXN1933,2024-05-01,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Card,4,False,6,May,5,False
+TXN1934,2024-02-13,Thika Road,Esther Njeri,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,3,False,12,February,2,False
+TXN1935,2024-07-16,Westlands,Brian Otieno,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,5,False,9,July,7,False
+TXN1936,2024-10-23,Thika Road,Esther Njeri,Clothing,Sneakers,2,3500,7000,2200,2600,Cash,2,False,10,October,10,False
+TXN1937,2024-11-29,CBD,Alice Wanjiru,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,9,November,11,False
+TXN1938,2024-01-23,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,2,True,13,January,1,False
+TXN1939,2024-02-16,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,4,False,15,February,2,False
+TXN1940,2024-09-30,Karen,Cynthia Mwangi,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,4,False,5,September,9,False
+TXN1941,2024-09-26,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,Cash,4,False,7,September,9,False
+TXN1942,2024-08-09,Karen,Cynthia Mwangi,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,11,August,8,False
+TXN1943,2024-03-14,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Cash,5,False,10,March,3,False
+TXN1944,2024-04-27,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,13,April,4,True
+TXN1945,2024-05-07,Westlands,Brian Otieno,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,4,False,11,May,5,True
+TXN1946,2024-12-02,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,Card,2,False,11,December,12,False
+TXN1947,2024-12-22,CBD,Alice Wanjiru,Electronics,Phone Charger,1,1500,1500,900,600,Cash,5,False,14,December,12,False
+TXN1948,2024-03-29,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Cash,4,False,9,March,3,False
+TXN1949,2024-01-02,CBD,Alice Wanjiru,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Cash,4,False,9,January,1,True
+TXN1950,2024-05-10,Karen,Cynthia Mwangi,Groceries,Rice 2kg,1,400,400,300,100,M-Pesa,4,False,5,May,5,False
+TXN1951,2024-09-03,Eastleigh,David Kimani,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,3,False,16,September,9,False
+TXN1952,2024-07-22,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,14,July,7,False
+TXN1953,2024-01-31,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,9,160,1440,110,450,M-Pesa,4,False,8,January,1,True
+TXN1954,2024-12-06,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,Cash,4,False,13,December,12,False
+TXN1955,2024-04-28,CBD,Alice Wanjiru,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,5,False,13,April,4,False
+TXN1956,2024-02-06,CBD,Alice Wanjiru,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,5,False,11,February,2,False
+TXN1957,2024-05-29,Westlands,Brian Otieno,Home & Living,Wall Clock,1,1200,1200,700,500,Card,3,False,13,May,5,False
+TXN1958,2024-03-25,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,4,False,8,March,3,False
+TXN1959,2024-05-05,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,11,May,5,False
+TXN1960,2024-02-23,Westlands,Brian Otieno,Clothing,Jeans,2,2800,5600,1800,2000,Card,5,True,11,February,2,False
+TXN1961,2024-09-10,Thika Road,Esther Njeri,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,5,False,13,September,9,False
+TXN1962,2024-10-31,CBD,Alice Wanjiru,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,10,October,10,False
+TXN1963,2024-09-15,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,13,September,9,False
+TXN1964,2024-01-21,Eastleigh,David Kimani,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,12,January,1,True
+TXN1965,2024-08-19,Thika Road,Esther Njeri,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,4,False,11,August,8,False
+TXN1966,2024-03-14,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,3,180,540,120,180,M-Pesa,5,False,13,March,3,False
+TXN1967,2024-03-07,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,10,March,3,False
+TXN1968,2024-08-06,CBD,Alice Wanjiru,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,4,False,14,August,8,False
+TXN1969,2024-07-31,Westlands,Brian Otieno,Groceries,Sugar 1kg,6,160,960,110,300,Card,5,False,7,July,7,False
+TXN1970,2024-08-31,Thika Road,Esther Njeri,Clothing,Jeans,1,2800,2800,1800,1000,Card,1,False,13,August,8,False
+TXN1971,2024-12-18,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,3,False,13,December,12,False
+TXN1972,2024-06-07,CBD,Alice Wanjiru,Electronics,Phone Charger,2,1500,3000,900,1200,M-Pesa,1,False,14,June,6,False
+TXN1973,2024-02-21,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,5,False,7,February,2,False
+TXN1974,2024-04-29,Karen,Cynthia Mwangi,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,4,False,9,April,4,False
+TXN1975,2024-11-07,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,14,November,11,False
+TXN1976,2024-04-30,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,1,350,350,250,100,M-Pesa,4,False,13,April,4,False
+TXN1977,2024-10-02,Thika Road,Esther Njeri,Clothing,Sneakers,3,3500,10500,2200,3900,Card,3,False,12,October,10,False
+TXN1978,2024-11-16,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,Card,5,False,7,November,11,False
+TXN1979,2024-08-13,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,10,August,8,False
+TXN1980,2024-07-21,CBD,Alice Wanjiru,Clothing,Sneakers,2,3500,7000,2200,2600,Card,5,False,13,July,7,False
+TXN1981,2024-01-20,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,6,180,1080,120,360,M-Pesa,5,False,7,January,1,False
+TXN1982,2024-03-27,Karen,Cynthia Mwangi,Groceries,Rice 2kg,4,400,1600,300,400,Cash,3,False,6,March,3,False
+TXN1983,2024-06-21,Eastleigh,David Kimani,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Card,5,False,16,June,6,False
+TXN1984,2024-09-24,Karen,Cynthia Mwangi,Groceries,Rice 2kg,6,400,2400,300,600,M-Pesa,4,False,5,September,9,False
+TXN1985,2024-03-20,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Cash,4,False,13,March,3,False
+TXN1986,2024-09-21,CBD,Alice Wanjiru,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,5,False,9,September,9,False
+TXN1987,2024-07-22,CBD,Alice Wanjiru,Electronics,Power Bank,2,3500,7000,2200,2600,Cash,5,False,15,July,7,False
+TXN1988,2024-01-25,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,5,False,11,January,1,False
+TXN1989,2024-08-18,CBD,Alice Wanjiru,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,4,False,15,August,8,False
+TXN1990,2024-11-03,Thika Road,Esther Njeri,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,11,November,11,False
+TXN1991,2024-08-14,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,8,350,2800,250,800,Cash,5,False,9,August,8,False
+TXN1992,2024-04-09,Thika Road,Esther Njeri,Home & Living,Cooking Pot,2,3200,6400,2100,2200,Cash,1,False,8,April,4,False
+TXN1993,2024-08-24,Thika Road,Esther Njeri,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,4,False,14,August,8,False
+TXN1994,2024-11-12,CBD,Alice Wanjiru,Groceries,Rice 2kg,1,400,400,300,100,M-Pesa,2,False,15,November,11,False
+TXN1995,2024-12-07,Karen,Cynthia Mwangi,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,4,False,9,December,12,False
+TXN1996,2024-09-10,Thika Road,Esther Njeri,Electronics,Earphones,1,2500,2500,1500,1000,Card,4,False,12,September,9,True
+TXN1997,2024-09-22,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,14,September,9,False
+TXN1998,2024-01-10,CBD,Alice Wanjiru,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,4,False,13,January,1,False
+TXN1999,2024-08-19,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,2,160,320,110,100,Card,3,False,9,August,8,False
+TXN2000,2024-11-25,Eastleigh,David Kimani,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,4,False,11,November,11,False
+TXN2001,2024-03-30,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,11,March,3,True
+TXN2002,2024-04-13,Eastleigh,David Kimani,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,1,False,17,April,4,False
+TXN2003,2024-03-17,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,5,350,1750,250,500,M-Pesa,2,False,16,March,3,False
+TXN2004,2024-11-01,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,2,False,13,November,11,False
+TXN2005,2024-07-27,Karen,Cynthia Mwangi,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,7,July,7,True
+TXN2006,2024-12-01,Thika Road,Esther Njeri,Groceries,Sugar 1kg,3,160,480,110,150,Card,4,False,12,December,12,True
+TXN2007,2024-02-25,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,13,February,2,False
+TXN2008,2024-09-05,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,5,False,11,September,9,False
+TXN2009,2024-01-18,Westlands,Brian Otieno,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,4,False,10,January,1,False
+TXN2010,2024-10-14,Karen,Cynthia Mwangi,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,3,False,5,October,10,False
+TXN2011,2024-09-06,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,5,160,800,110,250,Card,4,False,11,September,9,False
+TXN2012,2024-11-23,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,Cash,3,False,11,November,11,False
+TXN2013,2024-09-09,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,4,False,8,September,9,False
+TXN2014,2024-08-14,Eastleigh,David Kimani,Groceries,Sugar 1kg,9,160,1440,110,450,M-Pesa,1,False,16,August,8,False
+TXN2015,2024-08-21,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Cash,4,False,14,August,8,False
+TXN2016,2024-08-18,CBD,Alice Wanjiru,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,11,August,8,False
+TXN2017,2024-08-22,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,4,False,11,August,8,False
+TXN2018,2024-03-16,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,2,False,7,March,3,False
+TXN2019,2024-06-14,Thika Road,Esther Njeri,Clothing,T-Shirt,3,1200,3600,700,1500,Card,4,False,14,June,6,False
+TXN2020,2024-11-13,Karen,Cynthia Mwangi,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,6,November,11,False
+TXN2021,2024-05-23,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,5,False,13,May,5,False
+TXN2022,2024-08-22,Thika Road,Esther Njeri,Groceries,Rice 2kg,7,400,2800,300,700,M-Pesa,3,False,9,August,8,False
+TXN2023,2024-03-20,Westlands,Brian Otieno,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,3,False,11,March,3,False
+TXN2024,2024-05-06,CBD,Alice Wanjiru,Groceries,Rice 2kg,7,400,2800,300,700,Cash,4,False,15,May,5,False
+TXN2025,2024-01-04,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,1,350,350,250,100,M-Pesa,4,False,12,January,1,False
+TXN2026,2024-07-25,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,5,False,6,July,7,False
+TXN2027,2024-02-04,Eastleigh,David Kimani,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,17,February,2,False
+TXN2028,2024-12-04,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,5,False,14,December,12,False
+TXN2029,2024-08-22,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,7,August,8,False
+TXN2030,2024-08-22,Thika Road,Esther Njeri,Groceries,Maize Flour 2kg,7,180,1260,120,420,Card,2,False,11,August,8,False
+TXN2031,2024-02-05,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,5,160,800,110,250,Card,5,False,5,February,2,False
+TXN2032,2024-04-18,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,5,False,17,April,4,False
+TXN2033,2024-10-06,Westlands,Brian Otieno,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,12,October,10,False
+TXN2034,2024-11-06,Karen,Cynthia Mwangi,Groceries,Rice 2kg,3,400,1200,300,300,M-Pesa,2,False,9,November,11,False
+TXN2035,2024-09-11,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,4,False,13,September,9,False
+TXN2036,2024-11-19,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,Card,5,False,11,November,11,False
+TXN2037,2024-08-09,Karen,Cynthia Mwangi,Groceries,Sugar 1kg,7,160,1120,110,350,M-Pesa,5,False,9,August,8,False
+TXN2038,2024-05-06,Thika Road,Esther Njeri,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,5,False,12,May,5,False
+TXN2039,2024-06-11,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Card,3,False,13,June,6,False
+TXN2040,2024-07-12,Westlands,Brian Otieno,Home & Living,Table Lamp,3,1800,5400,1100,2100,Cash,5,False,9,July,7,False
+TXN2041,2024-08-08,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,3,False,10,August,8,False
+TXN2042,2024-05-09,CBD,Alice Wanjiru,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,14,May,5,False
+TXN2043,2024-01-31,Westlands,Brian Otieno,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,10,January,1,False
+TXN2044,2024-06-10,Thika Road,Esther Njeri,Electronics,Phone Charger,3,1500,4500,900,1800,Card,4,False,11,June,6,False
+TXN2045,2024-08-08,CBD,Alice Wanjiru,Electronics,Earphones,3,2500,7500,1500,3000,M-Pesa,3,False,15,August,8,False
+TXN2046,2024-05-24,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,5,True,10,May,5,False
+TXN2047,2024-03-16,Karen,Cynthia Mwangi,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,10,March,3,False
+TXN2048,2024-11-21,Eastleigh,David Kimani,Electronics,Earphones,3,2500,7500,1500,3000,Card,5,False,15,November,11,False
+TXN2049,2024-04-14,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,2,False,9,April,4,False
+TXN2050,2024-03-06,Thika Road,Esther Njeri,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,4,False,14,March,3,False
+TXN2051,2024-07-03,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,M-Pesa,4,False,5,July,7,False
+TXN2052,2024-04-04,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,4,350,1400,250,400,M-Pesa,4,False,10,April,4,False
+TXN2053,2024-11-03,Westlands,Brian Otieno,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,5,False,11,November,11,False
+TXN2054,2024-03-12,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,8,March,3,False
+TXN2055,2024-01-14,Westlands,Brian Otieno,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,5,False,12,January,1,False
+TXN2056,2024-11-05,CBD,Alice Wanjiru,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,3,True,10,November,11,False
+TXN2057,2024-05-02,Westlands,Brian Otieno,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,7,May,5,False
+TXN2058,2024-06-28,Thika Road,Esther Njeri,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,5,False,10,June,6,False
+TXN2059,2024-03-01,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,1,350,350,250,100,Card,3,False,6,March,3,False
+TXN2060,2024-03-29,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,4,180,720,120,240,M-Pesa,5,False,7,March,3,False
+TXN2061,2024-11-25,Westlands,Brian Otieno,Groceries,Sugar 1kg,5,160,800,110,250,M-Pesa,5,False,10,November,11,False
+TXN2062,2024-08-09,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,Card,3,False,10,August,8,False
+TXN2063,2024-04-28,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,8,180,1440,120,480,M-Pesa,2,False,11,April,4,False
+TXN2064,2024-07-10,CBD,Alice Wanjiru,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,4,False,11,July,7,False
+TXN2065,2024-05-01,Eastleigh,David Kimani,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,3,False,12,May,5,False
+TXN2066,2024-07-18,Thika Road,Esther Njeri,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,4,False,12,July,7,True
+TXN2067,2024-06-13,Thika Road,Esther Njeri,Electronics,Earphones,2,2500,5000,1500,2000,M-Pesa,4,False,9,June,6,False
+TXN2068,2024-05-07,Eastleigh,David Kimani,Home & Living,Wall Clock,1,1200,1200,700,500,Cash,4,False,17,May,5,False
+TXN2069,2024-07-29,Westlands,Brian Otieno,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Cash,3,False,13,July,7,False
+TXN2070,2024-09-27,CBD,Alice Wanjiru,Clothing,T-Shirt,2,1200,2400,700,1000,Cash,4,True,10,September,9,False
+TXN2071,2024-12-09,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,3,False,14,December,12,False
+TXN2072,2024-03-26,Westlands,Brian Otieno,Electronics,Earphones,2,2500,5000,1500,2000,Card,4,False,9,March,3,False
+TXN2073,2024-10-19,Thika Road,Esther Njeri,Clothing,Jacket,3,4500,13500,3000,4500,Card,5,True,12,October,10,False
+TXN2074,2024-08-31,Eastleigh,David Kimani,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Cash,5,False,11,August,8,False
+TXN2075,2024-06-07,Karen,Cynthia Mwangi,Home & Living,Wall Clock,3,1200,3600,700,1500,Card,4,False,6,June,6,True
+TXN2076,2024-12-22,CBD,Alice Wanjiru,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,False,15,December,12,True
+TXN2077,2024-11-24,Eastleigh,David Kimani,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,3,False,12,November,11,False
+TXN2078,2024-05-14,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,3,350,1050,250,300,Card,1,False,11,May,5,False
+TXN2079,2024-09-11,Thika Road,Esther Njeri,Home & Living,Cooking Pot,1,3200,3200,2100,1100,M-Pesa,5,False,9,September,9,False
+TXN2080,2024-02-23,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,3,False,8,February,2,False
+TXN2081,2024-09-13,Eastleigh,David Kimani,Groceries,Sugar 1kg,3,160,480,110,150,Card,4,False,16,September,9,False
+TXN2082,2024-06-02,Thika Road,Esther Njeri,Groceries,Sugar 1kg,7,160,1120,110,350,M-Pesa,4,False,9,June,6,True
+TXN2083,2024-03-03,Karen,Cynthia Mwangi,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,5,False,8,March,3,False
+TXN2084,2024-12-01,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,4,False,15,December,12,False
+TXN2085,2024-06-18,Westlands,Brian Otieno,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,4,False,11,June,6,False
+TXN2086,2024-06-21,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,1,180,180,120,60,Card,1,False,11,June,6,False
+TXN2087,2024-04-17,Thika Road,Esther Njeri,Home & Living,Table Lamp,1,1800,1800,1100,700,M-Pesa,5,False,13,April,4,False
+TXN2088,2024-02-10,Thika Road,Esther Njeri,Groceries,Sugar 1kg,9,160,1440,110,450,Cash,4,True,12,February,2,False
+TXN2089,2024-07-31,Eastleigh,David Kimani,Home & Living,Cooking Pot,1,3200,3200,2100,1100,Card,2,False,12,July,7,False
+TXN2090,2024-11-03,CBD,Alice Wanjiru,Groceries,Sugar 1kg,2,160,320,110,100,M-Pesa,3,False,15,November,11,False
+TXN2091,2024-03-12,Karen,Cynthia Mwangi,Electronics,Phone Charger,3,1500,4500,900,1800,M-Pesa,4,False,6,March,3,False
+TXN2092,2024-04-01,Thika Road,Esther Njeri,Home & Living,Table Lamp,2,1800,3600,1100,1400,Card,4,False,8,April,4,True
+TXN2093,2024-08-15,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,5,False,5,August,8,False
+TXN2094,2024-06-18,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,7,350,2450,250,700,Card,4,False,12,June,6,False
+TXN2095,2024-02-07,Karen,Cynthia Mwangi,Home & Living,Table Lamp,3,1800,5400,1100,2100,Card,5,False,5,February,2,False
+TXN2096,2024-01-08,Karen,Cynthia Mwangi,Clothing,Sneakers,1,3500,3500,2200,1300,M-Pesa,5,False,5,January,1,False
+TXN2097,2024-07-04,Eastleigh,David Kimani,Clothing,T-Shirt,1,1200,1200,700,500,M-Pesa,3,False,13,July,7,False
+TXN2098,2024-01-08,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,3,180,540,120,180,M-Pesa,4,False,12,January,1,False
+TXN2099,2024-10-09,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,3,False,12,October,10,False
+TXN2100,2024-06-24,CBD,Alice Wanjiru,Clothing,Jacket,1,4500,4500,3000,1500,Card,5,False,10,June,6,False
+TXN2101,2024-07-03,Westlands,Brian Otieno,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Cash,3,False,9,July,7,False
+TXN2102,2024-07-05,Thika Road,Esther Njeri,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,1,False,13,July,7,False
+TXN2103,2024-01-18,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,Card,4,False,14,January,1,True
+TXN2104,2024-10-29,Thika Road,Esther Njeri,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,1,False,13,October,10,False
+TXN2105,2024-07-18,Thika Road,Esther Njeri,Groceries,Cooking Oil 1L,4,350,1400,250,400,Card,4,False,8,July,7,False
+TXN2106,2024-06-03,CBD,Alice Wanjiru,Groceries,Rice 2kg,8,400,3200,300,800,M-Pesa,3,False,12,June,6,False
+TXN2107,2024-11-30,Westlands,Brian Otieno,Electronics,Power Bank,3,3500,10500,2200,3900,Card,4,False,12,November,11,False
+TXN2108,2024-12-02,Thika Road,Esther Njeri,Groceries,Sugar 1kg,8,160,1280,110,400,Cash,4,False,10,December,12,True
+TXN2109,2024-02-26,Thika Road,Esther Njeri,Clothing,Sneakers,3,3500,10500,2200,3900,Card,4,False,9,February,2,False
+TXN2110,2024-05-13,Westlands,Brian Otieno,Home & Living,Wall Clock,1,1200,1200,700,500,M-Pesa,4,False,8,May,5,False
+TXN2111,2024-05-22,Thika Road,Esther Njeri,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,3,False,10,May,5,False
+TXN2112,2024-02-22,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,12,February,2,False
+TXN2113,2024-02-21,Eastleigh,David Kimani,Home & Living,Wall Clock,3,1200,3600,700,1500,Cash,2,False,15,February,2,False
+TXN2114,2024-10-24,Eastleigh,David Kimani,Groceries,Sugar 1kg,4,160,640,110,200,Card,3,False,17,October,10,False
+TXN2115,2024-06-29,CBD,Alice Wanjiru,Clothing,Jacket,3,4500,13500,3000,4500,M-Pesa,3,False,12,June,6,False
+TXN2116,2024-08-07,CBD,Alice Wanjiru,Groceries,Rice 2kg,2,400,800,300,200,M-Pesa,3,False,14,August,8,False
+TXN2117,2024-04-17,Thika Road,Esther Njeri,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,2,True,8,April,4,False
+TXN2118,2024-03-03,Westlands,Brian Otieno,Electronics,Phone Charger,3,1500,4500,900,1800,Card,1,False,7,March,3,False
+TXN2119,2024-06-07,Thika Road,Esther Njeri,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,10,June,6,False
+TXN2120,2024-10-08,Thika Road,Esther Njeri,Groceries,Sugar 1kg,8,160,1280,110,400,M-Pesa,4,False,14,October,10,False
+TXN2121,2024-11-25,Eastleigh,David Kimani,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,11,November,11,False
+TXN2122,2024-05-19,Westlands,Brian Otieno,Electronics,Power Bank,2,3500,7000,2200,2600,M-Pesa,3,False,9,May,5,False
+TXN2123,2024-05-25,Eastleigh,David Kimani,Groceries,Rice 2kg,9,400,3600,300,900,Cash,4,False,14,May,5,False
+TXN2124,2024-10-04,Thika Road,Esther Njeri,Groceries,Rice 2kg,3,400,1200,300,300,Card,4,False,8,October,10,False
+TXN2125,2024-04-20,Westlands,Brian Otieno,Home & Living,Bedsheet Set,1,2500,2500,1600,900,M-Pesa,4,False,9,April,4,False
+TXN2126,2024-10-30,CBD,Alice Wanjiru,Groceries,Rice 2kg,5,400,2000,300,500,M-Pesa,3,False,12,October,10,False
+TXN2127,2024-06-10,CBD,Alice Wanjiru,Home & Living,Wall Clock,3,1200,3600,700,1500,M-Pesa,4,False,13,June,6,False
+TXN2128,2024-10-01,Karen,Cynthia Mwangi,Home & Living,Table Lamp,2,1800,3600,1100,1400,M-Pesa,3,False,9,October,10,False
+TXN2129,2024-02-15,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,4,350,1400,250,400,M-Pesa,4,False,8,February,2,True
+TXN2130,2024-01-31,Westlands,Brian Otieno,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,4,False,9,January,1,True
+TXN2131,2024-11-01,Eastleigh,David Kimani,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,4,True,13,November,11,False
+TXN2132,2024-12-18,Eastleigh,David Kimani,Clothing,Sneakers,2,3500,7000,2200,2600,M-Pesa,2,False,12,December,12,False
+TXN2133,2024-11-27,Karen,Cynthia Mwangi,Home & Living,Bedsheet Set,2,2500,5000,1600,1800,Card,4,False,5,November,11,False
+TXN2134,2024-03-31,Karen,Cynthia Mwangi,Groceries,Rice 2kg,2,400,800,300,200,Card,5,False,9,March,3,False
+TXN2135,2024-02-02,Eastleigh,David Kimani,Home & Living,Bedsheet Set,1,2500,2500,1600,900,Card,5,False,15,February,2,False
+TXN2136,2024-10-12,Eastleigh,David Kimani,Home & Living,Table Lamp,1,1800,1800,1100,700,Card,4,False,14,October,10,False
+TXN2137,2024-03-31,Westlands,Brian Otieno,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,2,False,10,March,3,False
+TXN2138,2024-04-20,Eastleigh,David Kimani,Clothing,Jeans,2,2800,5600,1800,2000,M-Pesa,1,False,13,April,4,False
+TXN2139,2024-11-20,Karen,Cynthia Mwangi,Clothing,Jacket,2,4500,9000,3000,3000,Card,5,False,5,November,11,False
+TXN2140,2024-02-23,Westlands,Brian Otieno,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,1,False,9,February,2,False
+TXN2141,2024-12-13,CBD,Alice Wanjiru,Groceries,Sugar 1kg,6,160,960,110,300,M-Pesa,4,False,12,December,12,True
+TXN2142,2024-02-16,Thika Road,Esther Njeri,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,5,False,14,February,2,False
+TXN2143,2024-09-17,CBD,Alice Wanjiru,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,3,False,14,September,9,False
+TXN2144,2024-01-19,Thika Road,Esther Njeri,Clothing,Jacket,1,4500,4500,3000,1500,M-Pesa,5,False,9,January,1,False
+TXN2145,2024-09-06,Eastleigh,David Kimani,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,3,False,14,September,9,False
+TXN2146,2024-08-19,Eastleigh,David Kimani,Groceries,Cooking Oil 1L,8,350,2800,250,800,Card,5,False,17,August,8,False
+TXN2147,2024-07-26,Thika Road,Esther Njeri,Home & Living,Table Lamp,3,1800,5400,1100,2100,M-Pesa,3,False,14,July,7,False
+TXN2148,2024-01-07,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,False,11,January,1,False
+TXN2149,2024-12-01,Karen,Cynthia Mwangi,Electronics,Earphones,1,2500,2500,1500,1000,M-Pesa,4,False,9,December,12,True
+TXN2150,2024-06-14,Westlands,Brian Otieno,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,5,False,13,June,6,False
+TXN2151,2024-05-20,Westlands,Brian Otieno,Groceries,Maize Flour 2kg,9,180,1620,120,540,M-Pesa,3,False,10,May,5,False
+TXN2152,2024-09-10,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,1,180,180,120,60,M-Pesa,4,False,13,September,9,True
+TXN2153,2024-02-15,Thika Road,Esther Njeri,Clothing,Sneakers,2,3500,7000,2200,2600,Card,5,False,10,February,2,False
+TXN2154,2024-02-15,Karen,Cynthia Mwangi,Electronics,Power Bank,3,3500,10500,2200,3900,M-Pesa,4,False,10,February,2,False
+TXN2155,2024-11-27,Westlands,Brian Otieno,Clothing,Jacket,2,4500,9000,3000,3000,M-Pesa,4,False,11,November,11,True
+TXN2156,2024-04-04,Thika Road,Esther Njeri,Electronics,Phone Charger,2,1500,3000,900,1200,Cash,4,False,13,April,4,False
+TXN2157,2024-08-17,Eastleigh,David Kimani,Clothing,Sneakers,2,3500,7000,2200,2600,Card,4,True,11,August,8,False
+TXN2158,2024-01-09,CBD,Alice Wanjiru,Electronics,Power Bank,1,3500,3500,2200,1300,Cash,5,False,14,January,1,False
+TXN2159,2024-03-24,Westlands,Brian Otieno,Home & Living,Table Lamp,2,1800,3600,1100,1400,Card,4,False,9,March,3,False
+TXN2160,2024-09-14,Westlands,Brian Otieno,Clothing,T-Shirt,1,1200,1200,700,500,Cash,5,True,12,September,9,False
+TXN2161,2024-03-29,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,M-Pesa,4,False,9,March,3,False
+TXN2162,2024-10-05,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,M-Pesa,4,False,13,October,10,False
+TXN2163,2024-02-09,Thika Road,Esther Njeri,Groceries,Rice 2kg,4,400,1600,300,400,M-Pesa,5,False,8,February,2,False
+TXN2164,2024-06-27,Thika Road,Esther Njeri,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,M-Pesa,5,True,14,June,6,False
+TXN2165,2024-09-19,Thika Road,Esther Njeri,Home & Living,Cooking Pot,2,3200,6400,2100,2200,M-Pesa,3,False,12,September,9,False
+TXN2166,2024-01-15,Karen,Cynthia Mwangi,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,5,January,1,False
+TXN2167,2024-06-14,Karen,Cynthia Mwangi,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Card,3,False,11,June,6,False
+TXN2168,2024-04-09,Eastleigh,David Kimani,Electronics,Power Bank,1,3500,3500,2200,1300,Card,4,False,16,April,4,False
+TXN2169,2024-09-12,Eastleigh,David Kimani,Clothing,Jeans,3,2800,8400,1800,3000,Cash,4,False,14,September,9,False
+TXN2170,2024-06-27,Thika Road,Esther Njeri,Clothing,Sneakers,3,3500,10500,2200,3900,M-Pesa,5,True,11,June,6,False
+TXN2171,2024-02-27,Thika Road,Esther Njeri,Clothing,Sneakers,1,3500,3500,2200,1300,Card,4,False,9,February,2,False
+TXN2172,2024-01-20,CBD,Alice Wanjiru,Electronics,Power Bank,1,3500,3500,2200,1300,M-Pesa,2,False,11,January,1,False
+TXN2173,2024-09-25,Karen,Cynthia Mwangi,Clothing,Jeans,1,2800,2800,1800,1000,M-Pesa,4,False,10,September,9,False
+TXN2174,2024-03-27,Eastleigh,David Kimani,Clothing,Jeans,3,2800,8400,1800,3000,M-Pesa,2,False,14,March,3,False
+TXN2175,2024-09-09,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,6,350,2100,250,600,M-Pesa,4,False,10,September,9,True
+TXN2176,2024-11-01,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,2,5500,11000,3800,3400,Cash,4,False,14,November,11,False
+TXN2177,2024-06-20,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,5,350,1750,250,500,M-Pesa,4,False,11,June,6,False
+TXN2178,2024-07-01,Karen,Cynthia Mwangi,Groceries,Cooking Oil 1L,8,350,2800,250,800,M-Pesa,5,False,6,July,7,False
+TXN2179,2024-03-02,Karen,Cynthia Mwangi,Clothing,T-Shirt,3,1200,3600,700,1500,M-Pesa,4,False,11,March,3,False
+TXN2180,2024-05-20,Eastleigh,David Kimani,Clothing,T-Shirt,3,1200,3600,700,1500,Cash,4,False,17,May,5,False
+TXN2181,2024-11-15,Westlands,Brian Otieno,Clothing,Jacket,3,4500,13500,3000,4500,Cash,5,False,10,November,11,False
+TXN2182,2024-08-14,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,5,180,900,120,300,Card,5,False,15,August,8,False
+TXN2183,2024-05-31,Eastleigh,David Kimani,Electronics,Earphones,2,2500,5000,1500,2000,Card,5,False,12,May,5,False
+TXN2184,2024-09-07,Eastleigh,David Kimani,Home & Living,Cooking Pot,3,3200,9600,2100,3300,M-Pesa,2,False,12,September,9,False
+TXN2185,2024-12-30,CBD,Alice Wanjiru,Electronics,Phone Charger,1,1500,1500,900,600,M-Pesa,5,False,14,December,12,False
+TXN2186,2024-04-21,CBD,Alice Wanjiru,Home & Living,Wall Clock,2,1200,2400,700,1000,M-Pesa,4,False,11,April,4,False
+TXN2187,2024-09-09,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Cash,4,False,15,September,9,False
+TXN2188,2024-02-24,Eastleigh,David Kimani,Electronics,Bluetooth Speaker,1,5500,5500,3800,1700,Card,3,False,11,February,2,False
+TXN2189,2024-06-19,Westlands,Brian Otieno,Groceries,Rice 2kg,2,400,800,300,200,Cash,4,True,13,June,6,False
+TXN2190,2024-01-21,Karen,Cynthia Mwangi,Groceries,Maize Flour 2kg,5,180,900,120,300,M-Pesa,4,False,11,January,1,False
+TXN2191,2024-02-11,Eastleigh,David Kimani,Home & Living,Bedsheet Set,3,2500,7500,1600,2700,Card,3,False,11,February,2,False
+TXN2192,2024-06-10,CBD,Alice Wanjiru,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,4,False,14,June,6,False
+TXN2193,2024-04-16,CBD,Alice Wanjiru,Electronics,Bluetooth Speaker,3,5500,16500,3800,5100,M-Pesa,4,False,13,April,4,True
+TXN2194,2024-09-29,Thika Road,Esther Njeri,Clothing,T-Shirt,2,1200,2400,700,1000,M-Pesa,1,True,11,September,9,False
+TXN2195,2024-03-13,CBD,Alice Wanjiru,Groceries,Maize Flour 2kg,8,180,1440,120,480,Card,5,True,14,March,3,False
+TXN2196,2024-11-28,CBD,Alice Wanjiru,Home & Living,Table Lamp,3,1800,5400,1100,2100,Cash,5,False,9,November,11,False
+TXN2197,2024-05-19,Eastleigh,David Kimani,Groceries,Maize Flour 2kg,7,180,1260,120,420,M-Pesa,4,False,13,May,5,False
+TXN2198,2024-04-19,Westlands,Brian Otieno,Groceries,Cooking Oil 1L,3,350,1050,250,300,M-Pesa,4,False,9,April,4,False
+TXN2199,2024-12-20,Karen,Cynthia Mwangi,Home & Living,Cooking Pot,3,3200,9600,2100,3300,Cash,2,False,7,December,12,False
